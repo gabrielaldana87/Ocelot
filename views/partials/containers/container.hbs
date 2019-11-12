@@ -1,0 +1,26 @@
+<script id ="container-gist" type="text/x-handlebars-template">
+    <div class="container-tile col col-md-\{{col}}">
+        <div class="accordion-info">
+            <div class="accordion-head">
+                <h5 class="module-header">\{{name}}</h5>
+                <svg class="triangle-back"></svg>
+            </div>
+        </div>
+        <div class="containment-panel">
+            <div class="accordion-body col col-md-\{{minus visualize.panel}}">
+                <div class="tabs-left col col-md-12">
+                    <div id="buttons" class="col col-xs-7">
+                    </div>
+                    <div id="source" class="col col-xs-3">
+                    </div>
+                    <div id="times" class="col col-xs-2">
+                    </div>
+                </div>
+                <svg width=\{{svg.width}} height=\{{svg.height}} class=\{{class}}>
+                    <g></g>
+                </svg>
+            </div>
+            {{>table}}
+        </div>
+    </div>
+</script>

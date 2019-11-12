@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+    <link rel=StyleSheet href='stylesheets/bootstrap.min.css' type='text/css'>
+    <link rel=StyleSheet href='stylesheets/{{style}}' type='text/css'>
+    <link rel=Stylesheet href='stylesheets/vendor/react-select.css' type='text/css'>
+    <link rel=Stylesheet href='stylesheets/vendor/react-toggle.css' type='text/css'>
+</head>
+<body>
+{{{body}}}
+</body>
+<!--
+vendor libraries used by the project
+-->
+<script src='javascript/vendor/d3/d3.v4.min.js'></script>
+<script src='javascript/vendor/pbeshai/interpolatePath.js' ></script>
+<script src='javascript/vendor/handlebars/handlebars.min.js' ></script>
+<script src='javascript/vendor/jashkenas/underscore-min.js' ></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script>
+<script src='javascript/vendor/react/react.js' ></script>
+<script src='javascript/vendor/react/react-dom.js' ></script>
+<script src='javascript/vendor/react/prop-types.js' ></script>
+<script src='javascript/vendor/jedwatson/index.js' ></script>
+<script src='javascript/vendor/react/react-input-autosize.js' ></script>
+<script src='javascript/vendor/jedwatson/react-select.js' ></script>
+<script src='javascript/vendor/square/crossfilter.min.js' ></script>
+<script src='javascript/vendor/kriskowal/q.js' ></script>
+
+<script src='javascript/helpers/helpers.js' ></script>
+<script src='javascript/data/mixins.js' ></script>
+<!--
+configuration settings and rendering scripts for the d3 and react components.
+this is where the magic happens!
+-->
+<script src='javascript/{{path}}' ></script>
+<script src='javascript/{{renderingclient}}' defer></script>
+<!--
+custom d3 scripts for data transformation, chart rendering and event-handling
+-->
+<script src='javascript/data/parsers.js' ></script>
+<script src='javascript/data/keys.js' ></script>
+<script src='javascript/data/panel.js' ></script>
+<script src='javascript/data/query.js' ></script>
+<script src='javascript/charts/multiLineChart.js' ></script>
+<script src='javascript/charts/stackedToGroupBars.js'></script>
+<script src='javascript/charts/timelineBars.js'></script>
+<script src='javascript/events/zoom.js'></script>
+<script src='javascript/events/cursor.js'></script>
+<script src='javascript/events/clicks/multiLineChartClick.js'></script>
+<script src='javascript/events/clicks/timelineBarsClick.js'></script>
+<script src='javascript/events/clicks/stackedBarChartClick.js'></script>
+<script src='javascript/events/update/updateMultiLineChart.js'></script>
+<script src='javascript/events/update/updateStackedBarChart.js'></script>
+<!--
+transpiled react components to render visual elements on the page
+-->
+<script src='javascript/react/updateContext.js'></script>
+<script src='javascript/react/components/buttons.js'></script>
+<script src='javascript/react/components/table.js'></script>
+<script src='javascript/react/components/tasks.js'></script>
+<script src='javascript/react/components/dropdowns.js'></script>
+<script src='javascript/react/components/toggle.js'></script>
+<script src='javascript/react/components/rightPanel.js'></script>
+</html>

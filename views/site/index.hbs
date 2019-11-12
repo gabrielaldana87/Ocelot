@@ -1,0 +1,36 @@
+<body class="app">
+    <div id="loader">
+        <div class="spinner"></div>
+    </div>
+    <div class="scripts">
+        <script>
+            window.addEventListener('load', () => {
+                const loader = document.getElementById('loader');
+                setTimeout(() => {
+                    loader.classList.add('fadeOut');
+                }, 300);
+            });
+        </script>
+    </div>
+    <div>
+        <div class="sidebar"></div>
+        <div class="page-container">
+            <div class="main-content bgc-grey-100">
+                <div id="mainContent">
+                    <div class="row gap-20 masonry pos-r">
+                        <div class="masonry-sizer col-md-9"></div>
+                        <div class="masonry-item col-9">
+                            <div class="bd bgc-white">
+                                <div class="peers fxw-nw@lg+ ai-s">
+                                    <div class="next-to-content" id="root">
+                                        {{>container}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
