@@ -11,3 +11,5 @@ router.get('/', function(req, res, next) {
     title: 'Express',
     container:[{name:'hello'}]});
 });
+
+module.exports = router;

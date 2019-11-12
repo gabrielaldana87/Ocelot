@@ -41,7 +41,7 @@ var settings = {
         },
         parse: function(){
           var
-            formatDate = d4.timeParse('%d %b%H:%M %Y'),
+            formatDate = d3.timeParse('%d %b%H:%M %Y'),
             data = this['data'],
             parse = parseVitals()
               .rejectKeys(['minutesago','date','time','weight','cvp','tf'])
@@ -61,7 +61,7 @@ var settings = {
               else return k['id'];
             })),
             margin = {top: 20, right: 50, bottom: 20, left: 30},
-            scheme = ['#6495ed','#f39c12','#ffc0cb','#1abc9c','crimson','steelblue','#3cb371'],//d4.schemeCategory20,
+            scheme = ['#6495ed','#f39c12','#ffc0cb','#1abc9c','crimson','steelblue','#3cb371'],//d3.schemeCategory20,
             height = this.svg.height - margin.top - margin.bottom,
             width = this.svg.width - margin.left - margin.right,
             xDomain = this.domain.x,
@@ -144,14 +144,14 @@ var settings = {
               .y(d => d['value'])
               .y1(d => d['y1'])
               .y0(d => d['y0'])
-              .xDomain([d4.timeHour.offset(new Date(),-24), new Date()])
+              .xDomain([d3.timeHour.offset(new Date(),-24), new Date()])
               // .xDomain([
-              //   d4.timeHour.offset(d4.max(data, c => d4.max(c['values'], d => new Date(d['date']))), -24),
-              //   d4.max(data, c => d4.max(c['values'], d => new Date(d['date'])))
+              //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date(d['date']))), -24),
+              //   d3.max(data, c => d3.max(c['values'], d => new Date(d['date'])))
               // ])
               .yDomain([
-                d4.min(data, c => d4.min(c['values'], d => d['value'])),
-                d4.max(data, c => d4.max(c['values'], d => d['value']))
+                d3.min(data, c => d3.min(c['values'], d => d['value'])),
+                d3.max(data, c => d3.max(c['values'], d => d['value']))
               ])
               .w(+this['svg']['width'])
               .h(+this['svg']['height']);
@@ -163,14 +163,14 @@ var settings = {
             yDomain = this['domain']['y'],
             w = this.svg.width,
             h = this.svg.height,
-            xScale = d4.scaleTime().domain(xDomain).range([0,this.svg.width - 80]),
-            yScale = d4.scaleLinear().domain(yDomain).range([this.svg.height - 40, 0]),
+            xScale = d3.scaleTime().domain(xDomain).range([0,this.svg.width - 80]),
+            yScale = d3.scaleLinear().domain(yDomain).range([this.svg.height - 40, 0]),
             Y = d => yScale(d['value']),
             X = d => xScale(new Date(d['date'])),
             Y1 = d => yScale(d['y1']),
             Y0 = d => yScale(d['y0']),
-            line = d4.line().curve(d4.curveCardinal),
-            area = d4.area().curve(d4.curveCardinal).y1(Y1).y0(Y0),
+            line = d3.line().curve(d3.curveCardinal),
+            area = d3.area().curve(d3.curveCardinal).y1(Y1).y0(Y0),
             defineArea = d => (d['y1'] && d['y0']),
             zoom = zoomGraph()
               .x(d => new Date(d['date']))
@@ -193,7 +193,7 @@ var settings = {
                 ;
                 selection.selectAll('.line').each(function(d){
                   let
-                    path = d4.select(this),
+                    path = d3.select(this),
                     yDomain  = settings.modules[0].visualize.domain.y,
                     yz = yScale.domain(yDomain),
                     helperDataArray = d['values']
@@ -214,7 +214,7 @@ var settings = {
                 ;
                 selection.selectAll('.area').each(function(d){
                   let
-                    path = d4.select(this)
+                    path = d3.select(this)
                     ;
                   area
                     .defined(defineArea)
@@ -252,7 +252,7 @@ var settings = {
                 view.selectAll('.line').each(function (d,i) {
                   var
                     index = i,
-                    bisectDate = d4.bisector(d => new Date(d['date'])).right,
+                    bisectDate = d3.bisector(d => new Date(d['date'])).right,
                     datum = d,
                     key = datum['id'],
                     i = bisectDate(d['values'],x0,1),
@@ -285,7 +285,7 @@ var settings = {
                     //  ycrs = pos.y - (+view.attr('height') - margin.top),
                     opacity = d0 ? 1 : 0
                     ;
-                  d4.selectAll('.text-' + key ).text(() => {
+                  d3.selectAll('.text-' + key ).text(() => {
                     if(d0){
                       if(key === 'dbp' || key === 'sbp'){
                         return 'bp: ' +  bp_arr.reverse().join(' / ');
@@ -296,11 +296,11 @@ var settings = {
                       else return d0['value'] ? key + '\t:\t' + d0['value'] : '-';
                     } else return '-';
                   });
-                  d4.selectAll('.rect-' + key)
+                  d3.selectAll('.rect-' + key)
                     .attr('display', () => {
                       if(!d0){ return 'none' } else return d0['value'] ? null : 'none';
                     });
-                  d4.selectAll('.text-' + key)
+                  d3.selectAll('.text-' + key)
                     .attr('display', () => {
                       if(!d0){ return 'none' } else return d0['value'] ? null : 'none';
                     });
@@ -352,7 +352,7 @@ var settings = {
                   .value();
               })
               .value(function(){ return 'value'; })
-              .getmaxdt(() => d4.max(summary.days.day, d => new Date(d['startdtm'])))
+              .getmaxdt(() => d3.max(summary.days.day, d => new Date(d['startdtm'])))
               .reactprops(function(d){
                 if(d == 'bp' || d === 'abp'){
                   return { path: summary.days.day, functionId: 'third'}
@@ -388,7 +388,7 @@ var settings = {
             width = +this['svg']['width'],
             height = +this['svg']['height'],
             domain = that.domain,
-            formatDt = d4.timeFormat('%Y/%m/%d %H:%m:%S'),
+            formatDt = d3.timeFormat('%Y/%m/%d %H:%m:%S'),
             str_end = /(?<=end=).+?[^&]+/,
             str_str = /(?<=start=).+?[^&]+/,
             machine = 'http://url.com',
@@ -424,13 +424,13 @@ var settings = {
                       .y0(d => d['y0'])
                       .config(that)
                       // .xDomain([
-                      //   d4.timeHour.offset(d4.max(data, c => d4.max(c['values'], d => new Date())), -22),
-                      //   d4.timeHour.offset(d4.max(data, c => d4.max(c['values'], d => new Date())),)
+                      //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())), -22),
+                      //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())),)
                       // ])
                       .xDomain(domain.x)
                       .yDomain([
-                        d4.min(data, c => d4.min(c['values'], d => d['value'])),
-                        d4.max(data, c => d4.max(c['values'], d => d['value']))
+                        d3.min(data, c => d3.min(c['values'], d => d['value'])),
+                        d3.max(data, c => d3.max(c['values'], d => d['value']))
                       ])
                       .w(width)
                       .h(height)
@@ -520,9 +520,9 @@ var settings = {
             xDomain = this.domain.x,
             height = this.svg.height - margin.top - margin.bottom,
             width = this.svg.width - margin.left - margin.right,
-            yScale = d4.scaleLinear().domain(yDomain).range([height,0]),
-            xScale = d4.scaleTime().domain(xDomain).rangeRound([0,width]),
-            zScale = d4.scaleOrdinal(scheme),
+            yScale = d3.scaleLinear().domain(yDomain).range([height,0]),
+            xScale = d3.scaleTime().domain(xDomain).rangeRound([0,width]),
+            zScale = d3.scaleOrdinal(scheme),
             keys = reduceToKeys()
               .colors(scheme)
               .unique(() => Object.keys(data[0]))
@@ -541,17 +541,17 @@ var settings = {
               .click(function(button, parent, status){
                 var
                   element = parent.selectAll('g .bars'),
-                  stackMin = series => d4.min(series, d =>  d[0]),
-                  stackMax = series => d4.max(series, d => d[1]),
+                  stackMin = series => d3.min(series, d =>  d[0]),
+                  stackMax = series => d3.max(series, d => d[1]),
                   filter = series =>  _.filter(series, d =>  d['key'] !== 'net'),
-                  yAxis = d4.select('svg.io.view g.axis--y'),
-                  xAxis = d4.select('svg.io.view g.axis--x'),
-                  AxisY = d4.axisLeft(yScale),
-                  AxisX = d4.axisTop(xScale),
-                  t = d4.transition().duration(500),
-                  t2 = d4.transition().duration(2000),
-                  t3 = d4.transition().duration(3000),
-                  tabs = d4.select(parent.node().parentNode).selectAll('.pill');
+                  yAxis = d3.select('svg.io.view g.axis--y'),
+                  xAxis = d3.select('svg.io.view g.axis--x'),
+                  AxisY = d3.axisLeft(yScale),
+                  AxisX = d3.axisTop(xScale),
+                  t = d3.transition().duration(500),
+                  t2 = d3.transition().duration(2000),
+                  t3 = d3.transition().duration(3000),
+                  tabs = d3.select(parent.node().parentNode).selectAll('.pill');
                 if (status){
                   tabs
                     .filter(d => d !== button)
@@ -570,15 +570,15 @@ var settings = {
                     .filter(d => d['key'] === button)
                     .attr('class','bars selected')
                     .each(function(d){
-                      var inner = d4.select(this).selectAll('rect');
+                      var inner = d3.select(this).selectAll('rect');
                       inner
                         .transition(t)
                         .attr('y', d => d[0]<0 ? yScale(0) : yScale(0) - (yScale(d[0]) - yScale(d[1])))
                         .on('end',function(){
                           var
                             values = _.map(d, d => d['data'][button]),
-                            outflow = d4.min(values),
-                            extent = d4.max(values)
+                            outflow = d3.min(values),
+                            extent = d3.max(values)
                             ;
                           switch (true){
                           case (extent === 0):
@@ -633,10 +633,10 @@ var settings = {
                   tabs.style('background-color', d => zScale(d));
                   element
                     .each(function(){
-                      yScale.domain([d4.min(all,stackMin),d4.max(all,stackMax)]);
+                      yScale.domain([d3.min(all,stackMin),d3.max(all,stackMax)]);
                       yAxis
                         .transition(t3)
-                        .call(d4.axisLeft(yScale));
+                        .call(d3.axisLeft(yScale));
                       xAxis
                         .transition(t3)
                         .attr('transform','translate(0,' + yScale(0) + ')');
@@ -659,19 +659,19 @@ var settings = {
                 var
                   keys = Object.keys(data[0]),
                   trimmed = _.without(keys,'startdtm','enddtm','w'),
-                  stack = d4.stack()
+                  stack = d3.stack()
                     .keys(trimmed)
-                    .order(d4.stackOrderNone)
-                    .offset(d4.stackOffsetDiverging);
+                    .order(d3.stackOrderNone)
+                    .offset(d3.stackOffsetDiverging);
                 this.stack = stack;
                 return stack;
               })
               .colorBand(['#b3e5fc','#7986cb'])
-              .xDomain([d4.timeHour.offset(new Date(),-24), new Date()]);
+              .xDomain([d3.timeHour.offset(new Date(),-24), new Date()]);
           // .yDomain()
           // .xDomain([
-          //       d4.timeHour.offset(d4.max(data, function(d){ return new Date(d['startdtm']); }),-24),
-          //       d4.max(data, function(d){ return new Date(d['startdtm']); })
+          //       d3.timeHour.offset(d3.max(data, function(d){ return new Date(d['startdtm']); }),-24),
+          //       d3.max(data, function(d){ return new Date(d['startdtm']); })
           //     ]);
           return chart;
         },
@@ -704,7 +704,7 @@ var settings = {
             xDomain = this['domain']['x'],
             xRange = [0,this.svg.width - 80],
             pills = this.pills(),
-            xScale = d4.scaleTime().domain(xDomain).range(xRange),
+            xScale = d3.scaleTime().domain(xDomain).range(xRange),
             yDomain = this['domain']['y'],
             cursor = createLinearCursor()
               .convertDt(d => new Date(d['enddtm']))
@@ -715,21 +715,21 @@ var settings = {
               .elementClassName('.bars')
               .keyAccessor('key')
               .mouseover(function(){
-                d4.selectAll('.focus').style('display',null);
-                d4.selectAll('.legend').style('display',null);
-                d4.selectAll('.flag').style('display',null);
+                d3.selectAll('.focus').style('display',null);
+                d3.selectAll('.legend').style('display',null);
+                d3.selectAll('.flag').style('display',null);
               })
               .mouseout(function(){
-                d4.selectAll('.focus').style('display','none');
-                d4.selectAll('.legend').style('display','none');
-                d4.selectAll('.flag').style('display','none');
+                d3.selectAll('.focus').style('display','none');
+                d3.selectAll('.legend').style('display','none');
+                d3.selectAll('.flag').style('display','none');
               })
               .elementIntersection(function(view,x0,mouse){
                 let arr = [];
                 let activation = that['activation'];
                 view.selectAll('.bars').each(function(d,i){
                   var
-                    bisectDate = d4.bisector(d => new Date(d['enddtm'])).right,
+                    bisectDate = d3.bisector(d => new Date(d['enddtm'])).right,
                     height = view.attr('height'),
                     ind = bisectDate(d.map(o => o['data']),x0,1),
                     itxt = (d['index'] * 15),
@@ -762,7 +762,7 @@ var settings = {
                         .selectAll(`.rect-${key}`)
                         .attr('transform', `translate(50,-100)`)
                         .filter(d => { return d0['data'][d] !== null; })
-                        .attr('width', d => d4.select(`.text-${key}`).node().getComputedTextLength() + 10)
+                        .attr('width', d => d3.select(`.text-${key}`).node().getComputedTextLength() + 10)
                         .attr('transform', () => {
                           if(d0['data'][key] !== null) { arr.push(key); }
                           return `translate(50,${(arr.indexOf(key) - 2) * 12})`
@@ -773,7 +773,7 @@ var settings = {
                     if(!activation) return;
                     let
                       parent = selection.node().parentNode,
-                      button = d4.select(parent),
+                      button = d3.select(parent),
                       mapper = Object.keys(d0['data']).map(o => d0['data'][o]),
                       pos = _.reduce(mapper, (m, x) => !isNaN(m) ? m + (x > 0 ? x : 0) : 0, 0),
                       neg = _.reduce(mapper, (m, x) => !isNaN(m) ? m + (x < 0 ? x : 0) : 0, 0),
@@ -783,7 +783,7 @@ var settings = {
                     Object.keys(obj).forEach( o => {
                       button.select(`.nest.${o} text`).remove()
                       ;
-                      d4.select(parent).select(`div.nest.${o}`)
+                      d3.select(parent).select(`div.nest.${o}`)
                         .append('text')
                         .attr('class', 'aggregate-totals')
                         .text(obj[o])
@@ -795,14 +795,14 @@ var settings = {
                   extendText(view);
                   view.selectAll('.bars').selectAll('rect')
                     .filter(function(d){
-                      var rx = +d4.select(this).attr('x');
+                      var rx = +d3.select(this).attr('x');
                       if(mouse[0]+ _.max(size) >= rx && rx >= mouse[0]) { return this; }
                     })
                     .style('fill-opacity', 0.25)
                   ;
                   view.selectAll('.bars').selectAll('rect')
                     .filter(function(d){
-                      var rx = +d4.select(this).attr('x');
+                      var rx = +d3.select(this).attr('x');
                       if(rx >= mouse[0] + _.max(size) || rx <= mouse[0]) { return this; }
                     })
                     .style('fill-opacity', 1)
@@ -824,7 +824,7 @@ var settings = {
                 .max( o => new Date(o['enddtm']))
                 .value())
               .value( d => d)
-              .getmaxdt(() => d4.max(summary, d => Date(d['enddtm'])))
+              .getmaxdt(() => d3.max(summary, d => Date(d['enddtm'])))
               .reactprops(function(d){ return {
                 path: summary.filter(o => o.w === 24),
                 functionId:'first',
@@ -926,7 +926,7 @@ var settings = {
               .x0(d => d['recordeddtm'])
               .x1(d => d['recordedendtm'])
               .dataset(d => data)
-              .xDomain([d4.timeHour.offset(new Date(), -24), new Date()])
+              .xDomain([d3.timeHour.offset(new Date(), -24), new Date()])
               .yDomain([0, 1])
               .w(+this['svg']['width'])
               .h(+this['svg']['height'])
@@ -942,11 +942,11 @@ var settings = {
           var
             xDomain = this['domain']['x'],
             yDomain = this['domain']['y'],
-            yScale = d4.scaleLinear(),
+            yScale = d3.scaleLinear(),
             //Y0 = d => yScale(0),
             Y0 = d => yScale(d['dose']),
             Y1 = d => -yScale(d['dose']),
-            area = d4.area().curve(d4.curveCardinal).y0(Y0).y1(Y1),
+            area = d3.area().curve(d3.curveCardinal).y0(Y0).y1(Y1),
             defineArea = d => d['interval'] < 2 && d['dose'],
             zoom = zoomGraph()
               .x(d => new Date(d['recordeddtm']))
@@ -956,7 +956,7 @@ var settings = {
                 selection.selectAll('path.task').each(function(d) {
                   let
                     tasks = d['doses']['admin'],
-                    yDom = [0, d4.max(tasks, d => d.dose)]
+                    yDom = [0, d3.max(tasks, d => d.dose)]
                     ;
                   yScale
                     .range([0,13]).domain(yDom)
@@ -965,14 +965,14 @@ var settings = {
                     .defined(defineArea)
                     .x(d => xz(d['recordeddtm']))
                   ;
-                  d4.select(this).attr('d', area(tasks));
+                  d3.select(this).attr('d', area(tasks));
                 });
                 selection.selectAll('.rows .drip.dose')
                   .attr('dx', d => xz(d['recordeddtm']));
                 selection.selectAll('.rows')
                   .each(function(){
                     var
-                      row = d4.select(this),
+                      row = d3.select(this),
                       txt_length = row.select('.drug').node().getComputedTextLength() + 15,
                       dose = row.selectAll('.drip.dose'),
                       task_data = dose.data()
@@ -1019,18 +1019,18 @@ var settings = {
                 view.selectAll('.rows.drips').each( (d,i,t) => {
                   let
                     index = i,
-                    bisectDate = d4.bisector(d => d['recordedendtm']).right,
+                    bisectDate = d3.bisector(d => d['recordedendtm']).right,
                     datum = d,
                     key = datum['itemname'].replace(/\W/g,'').split(' ').join(''),
                     ix = bisectDate(d['doses']['admin'], x0, 0),
                     d0 = d['doses']['admin'][ix],
-                    roundDt = dt => dt.getMinutes() === 0 ? d4.timeHour.ceil(dt) : dt,
-                    check = d0 ? roundDt(d0['recordedendtm']).getTime() === d4.timeHour.ceil(x0).getTime() : false,
+                    roundDt = dt => dt.getMinutes() === 0 ? d3.timeHour.ceil(dt) : dt,
+                    check = d0 ? roundDt(d0['recordedendtm']).getTime() === d3.timeHour.ceil(x0).getTime() : false,
                     opacity = check ? 1: 0
                     ;
                   if(d0){
                     //console.log(roundDt(d0['recordedendtm']))
-                    // console.log(key, d0['recordedendtm'],x0, d4.timeHour.ceil(x0));
+                    // console.log(key, d0['recordedendtm'],x0, d3.timeHour.ceil(x0));
                   }
                   view
                     .select(`.text-${key}`)
@@ -1121,20 +1121,20 @@ var settings = {
             array = [],
             data = this['data'],
             map = Object.keys(data).forEach(function(d) {
-              array.push(d4.max(data[d], function(c) {
-                return d4.max(c['tasks']['task'], function(k) {
+              array.push(d3.max(data[d], function(c) {
+                return d3.max(c['tasks']['task'], function(k) {
                   return new Date(k['performeddtm']);
                 });
               }));
             }),
-            max = d4.max(array),
+            max = d3.max(array),
             chart = timelineBars()
               .dValue(d => d['drugname'])
               .x0(d => d['performeddtm'])
               .x1(d => d['performedendtm'])
               .y(d => d['value'])
               .dataset(d => d['tasks']['task'])
-              .xDomain([ d4.timeHour.offset(new Date(), -24), new Date()])
+              .xDomain([ d3.timeHour.offset(new Date(), -24), new Date()])
               .yDomain([0, 1])
               .w(+this['svg']['width'])
               .h(+this['svg']['height'])
@@ -1192,8 +1192,8 @@ var settings = {
               .completion(d => xDomain)
               .zoomElements(function(selection,xz){
                 var
-                  parent = d4.select('.prescriptions').node().parentNode,
-                  container = d4.select(parent)
+                  parent = d3.select('.prescriptions').node().parentNode,
+                  container = d3.select(parent)
                   ;
                 container.selectAll('.rows rect.task')
                   .attr('x', d => xz(d['performeddtm']));
@@ -1202,7 +1202,7 @@ var settings = {
                 container.selectAll('.rows')
                   .each(function(){
                     var
-                      row = d4.select(this),
+                      row = d3.select(this),
                       txt_length = row.select('.drug').node().getComputedTextLength() + 15,
                       dose = row.selectAll('.dose'),
                       task_data = dose.data()
@@ -1230,7 +1230,7 @@ var settings = {
             xDomain = this['domain']['x'],
             yDomain = this['domain']['y'],
             xRange = [0,this.svg.width - 80],
-            xScale = d4.scaleTime().domain(xDomain).range(xRange),
+            xScale = d3.scaleTime().domain(xDomain).range(xRange),
             cursor = createLinearCursor()
               .convertDt( d => d['performeddtm'])
               .xScale(xDomain)
@@ -1240,12 +1240,12 @@ var settings = {
               .elementIntersection((view, x0, mouse) => {
                 view.selectAll('rect.meds').each(function(d,i) {
                   let
-                    start = d4.timeMinute.offset(x0, -10),
-                    end = d4.timeMinute.offset(x0, 10),
+                    start = d3.timeMinute.offset(x0, -10),
+                    end = d3.timeMinute.offset(x0, 10),
                     index = i,
-                    bisectDate = d4.bisector(d => new Date(d['performeddtm'])).right,
+                    bisectDate = d3.bisector(d => new Date(d['performeddtm'])).right,
                     key = d['drugname'],
-                    label = d4.selectAll('text.drug').filter(d => d['drugname'] === key ),
+                    label = d3.selectAll('text.drug').filter(d => d['drugname'] === key ),
                     length = label.node().getComputedTextLength() + 10,
                     datum = d['tasks']['task'],
                     result = filterTimeRange('performeddtm', datum, start, end),
@@ -1296,8 +1296,8 @@ var settings = {
               })
               .onchange( value => {
                 let
-                  row = d4.selectAll('.rows.medications'),
-                  data = d4.selectAll('.rows.medications:not(.not-selected').data();
+                  row = d3.selectAll('.rows.medications'),
+                  data = d3.selectAll('.rows.medications:not(.not-selected').data();
                 if(value.length){
                   value.filter(o => {
                     let
@@ -1315,7 +1315,7 @@ var settings = {
                       .selectAll('.meds')
                       .attr('fill', d => value.indexOf(d) % 2 === 0 ? '#d6d5d1' : 'white')
                     ;
-                    d4.selectAll('.rows.medications:not(.selected)')
+                    d3.selectAll('.rows.medications:not(.selected)')
                       .transition()
                       .duration(1000)
                       .style('opacity', 0)
@@ -1324,7 +1324,7 @@ var settings = {
                       .style('left', 0);
                   })
                 } else
-                  d4.selectAll('.rows.medications')
+                  d3.selectAll('.rows.medications')
                     .classed('selected', false)
                     .transition()
                     .duration(1000)
@@ -1333,7 +1333,7 @@ var settings = {
                     .selectAll('.meds')
                     .attr('fill', d => data.indexOf(d) % 2 === 0 ? '#d6d5d1' : 'white');
 
-                d4.selectAll('.rows.medications.not-selected')
+                d3.selectAll('.rows.medications.not-selected')
                   .transition()
                   .duration(1000)
                   .style('opacity',0);

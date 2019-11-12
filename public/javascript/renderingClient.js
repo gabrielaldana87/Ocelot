@@ -215,6 +215,7 @@ function dataResponse(e){
 
 function parseData(config){
   if(!config.visualize) return config;
+  console.log(config.visualize.parse)
   try{
     var
       parse = config.visualize.parse();
