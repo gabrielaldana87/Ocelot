@@ -10,3 +10,19 @@ Mostly a front-end project with a small Express server to serve up Handlebars te
 ## Tech Stack
 
 ## Development Environment
+
+Node Setup
+```shell
+
+# install all the necessary node modules:
+npm install
+
+# start the server:
+npm start
+
+```
+
+View in Browser:
+
+localhost:3000/
+
