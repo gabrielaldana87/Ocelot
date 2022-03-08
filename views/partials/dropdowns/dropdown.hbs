@@ -1,0 +1,14 @@
+<script id="dropdown-gist" type="text/x-handlebars-template">
+    <div class="patient-widget dashboard-profile">
+        <div class="nav nav-pills nav-stacked">
+            <div class="profile-widget-box" id=\{{id}}>
+                <div class="module-category">\{{name}}</div>
+                <div class="dropdown-list">
+                    {{#if facilities}}
+                        {{>facilities}}
+                    {{/if}}
+                </div>
+            </div>
+        </div>
+    </div>
+</script>

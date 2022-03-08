@@ -1,0 +1,3225 @@
+{"drip": [
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 8414,
+        "dose": 150,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T20:00:00"
+      },
+      {
+        "minutesago": 8354,
+        "dose": 50,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T21:00:00"
+      },
+      {
+        "minutesago": 8294,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T22:00:00"
+      }
+    ]},
+    "calcmedian": 170,
+    "itemname": "Phenylephrine",
+    "visitguid": 9001831998100270,
+    "rank": 20,
+    "cfinal": "cardio",
+    "c1": "vasopressors",
+    "c2": "cardiovascular agents"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 4994,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T05:00:00"
+      },
+      {
+        "minutesago": 4934,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T06:00:00"
+      },
+      {
+        "minutesago": 4874,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T07:00:00"
+      },
+      {
+        "minutesago": 4814,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T08:00:00"
+      },
+      {
+        "minutesago": 4754,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T09:00:00"
+      },
+      {
+        "minutesago": 4694,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T10:00:00"
+      },
+      {
+        "minutesago": 4634,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T11:00:00"
+      },
+      {
+        "minutesago": 4574,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T12:00:00"
+      },
+      {
+        "minutesago": 4514,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T13:00:00"
+      },
+      {
+        "minutesago": 4454,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T14:00:00"
+      },
+      {
+        "minutesago": 4394,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T15:00:00"
+      },
+      {
+        "minutesago": 4334,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T16:00:00"
+      },
+      {
+        "minutesago": 4319,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T16:15:00"
+      },
+      {
+        "minutesago": 4274,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T17:00:00"
+      },
+      {
+        "minutesago": 4214,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:00:00"
+      },
+      {
+        "minutesago": 4179,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:35:00"
+      },
+      {
+        "minutesago": 4164,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:50:00"
+      },
+      {
+        "minutesago": 4154,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T19:00:00"
+      },
+      {
+        "minutesago": 4119,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T19:35:00"
+      },
+      {
+        "minutesago": 4094,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T20:00:00"
+      },
+      {
+        "minutesago": 4079,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T20:15:00"
+      },
+      {
+        "minutesago": 4034,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T21:00:00"
+      },
+      {
+        "minutesago": 3974,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T22:00:00"
+      },
+      {
+        "minutesago": 3914,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T23:00:00"
+      },
+      {
+        "minutesago": 3854,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T00:00:00"
+      },
+      {
+        "minutesago": 3851,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T00:03:00"
+      },
+      {
+        "minutesago": 3794,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T01:00:00"
+      },
+      {
+        "minutesago": 3734,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T02:00:00"
+      },
+      {
+        "minutesago": 3674,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T03:00:00"
+      },
+      {
+        "minutesago": 3614,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T04:00:00"
+      },
+      {
+        "minutesago": 3554,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T05:00:00"
+      },
+      {
+        "minutesago": 3545,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T05:09:00"
+      },
+      {
+        "minutesago": 3494,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T06:00:00"
+      },
+      {
+        "minutesago": 3434,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T07:00:00"
+      },
+      {
+        "minutesago": 3374,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T08:00:00"
+      },
+      {
+        "minutesago": 3314,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T09:00:00"
+      },
+      {
+        "minutesago": 3300,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T09:14:00"
+      },
+      {
+        "minutesago": 3254,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T10:00:00"
+      },
+      {
+        "minutesago": 3194,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T11:00:00"
+      },
+      {
+        "minutesago": 3141,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T11:53:00"
+      },
+      {
+        "minutesago": 3134,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T12:00:00"
+      },
+      {
+        "minutesago": 3074,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T13:00:00"
+      },
+      {
+        "minutesago": 3014,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T14:00:00"
+      },
+      {
+        "minutesago": 2954,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T15:00:00"
+      },
+      {
+        "minutesago": 2894,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T16:00:00"
+      },
+      {
+        "minutesago": 2866,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T16:28:00"
+      },
+      {
+        "minutesago": 2834,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T17:00:00"
+      },
+      {
+        "minutesago": 2774,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T18:00:00"
+      },
+      {
+        "minutesago": 2714,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T19:00:00"
+      },
+      {
+        "minutesago": 2654,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T20:00:00"
+      },
+      {
+        "minutesago": 2594,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T21:00:00"
+      },
+      {
+        "minutesago": 2543,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T21:51:00"
+      },
+      {
+        "minutesago": 2534,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T22:00:00"
+      },
+      {
+        "minutesago": 2474,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T23:00:00"
+      },
+      {
+        "minutesago": 2428,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T23:46:00"
+      },
+      {
+        "minutesago": 2414,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T00:00:00"
+      },
+      {
+        "minutesago": 2354,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T01:00:00"
+      },
+      {
+        "minutesago": 2294,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T02:00:00"
+      },
+      {
+        "minutesago": 2234,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T03:00:00"
+      },
+      {
+        "minutesago": 2174,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T04:00:00"
+      },
+      {
+        "minutesago": 2138,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T04:36:00"
+      },
+      {
+        "minutesago": 2114,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T05:00:00"
+      },
+      {
+        "minutesago": 2084,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T05:30:00"
+      },
+      {
+        "minutesago": 2054,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T06:00:00"
+      },
+      {
+        "minutesago": 2039,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T06:15:00"
+      },
+      {
+        "minutesago": 1994,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T07:00:00"
+      },
+      {
+        "minutesago": 1934,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T08:00:00"
+      },
+      {
+        "minutesago": 1874,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T09:00:00"
+      },
+      {
+        "minutesago": 1814,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T10:00:00"
+      },
+      {
+        "minutesago": 1754,
+        "dose": 2.4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T11:00:00"
+      },
+      {
+        "minutesago": 1694,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T12:00:00"
+      },
+      {
+        "minutesago": 1634,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T13:00:00"
+      },
+      {
+        "minutesago": 1599,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T13:35:00"
+      },
+      {
+        "minutesago": 1574,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T14:00:00"
+      },
+      {
+        "minutesago": 1514,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T15:00:00"
+      },
+      {
+        "minutesago": 1454,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T16:00:00"
+      },
+      {
+        "minutesago": 1426,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T16:28:00"
+      },
+      {
+        "minutesago": 1394,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T17:00:00"
+      },
+      {
+        "minutesago": 1334,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T18:00:00"
+      }
+    ]},
+    "calcmedian": 1.5,
+    "itemname": "Vasopressin",
+    "visitguid": 9001831998100270,
+    "rank": 20,
+    "cfinal": "cardio",
+    "c1": "antidiuretic hormones",
+    "c2": "hormones/hormone modifiers"
+  },
+  {
+    "c3": "metabolic agents",
+    "doses": {"admin": [
+      {
+        "minutesago": 7514,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T11:00:00"
+      },
+      {
+        "minutesago": 7454,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T12:00:00"
+      },
+      {
+        "minutesago": 7394,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T13:00:00"
+      },
+      {
+        "minutesago": 7334,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T14:00:00"
+      },
+      {
+        "minutesago": 7274,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T15:00:00"
+      },
+      {
+        "minutesago": 7214,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T16:00:00"
+      },
+      {
+        "minutesago": 7154,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T17:00:00"
+      },
+      {
+        "minutesago": 7094,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T18:00:00"
+      },
+      {
+        "minutesago": 7034,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T19:00:00"
+      },
+      {
+        "minutesago": 6974,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T20:00:00"
+      },
+      {
+        "minutesago": 6914,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T21:00:00"
+      },
+      {
+        "minutesago": 6854,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T22:00:00"
+      },
+      {
+        "minutesago": 6794,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-27T23:00:00"
+      },
+      {
+        "minutesago": 6734,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T00:00:00"
+      },
+      {
+        "minutesago": 6674,
+        "dose": 1.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T01:00:00"
+      },
+      {
+        "minutesago": 6614,
+        "dose": 0.75,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T02:00:00"
+      },
+      {
+        "minutesago": 6554,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T03:00:00"
+      },
+      {
+        "minutesago": 6494,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T04:00:00"
+      },
+      {
+        "minutesago": 6434,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T05:00:00"
+      },
+      {
+        "minutesago": 6374,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T06:00:00"
+      },
+      {
+        "minutesago": 6314,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T07:00:00"
+      },
+      {
+        "minutesago": 6254,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T08:00:00"
+      },
+      {
+        "minutesago": 6194,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T09:00:00"
+      },
+      {
+        "minutesago": 6134,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T10:00:00"
+      },
+      {
+        "minutesago": 6074,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T11:00:00"
+      },
+      {
+        "minutesago": 6014,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T12:00:00"
+      },
+      {
+        "minutesago": 5954,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T13:00:00"
+      },
+      {
+        "minutesago": 5894,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T14:00:00"
+      },
+      {
+        "minutesago": 5834,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T15:00:00"
+      },
+      {
+        "minutesago": 5774,
+        "dose": 7,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T16:00:00"
+      },
+      {
+        "minutesago": 5714,
+        "dose": 8,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T17:00:00"
+      },
+      {
+        "minutesago": 5654,
+        "dose": 11,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T18:00:00"
+      },
+      {
+        "minutesago": 5594,
+        "dose": 11,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T19:00:00"
+      },
+      {
+        "minutesago": 5534,
+        "dose": 7,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T20:00:00"
+      },
+      {
+        "minutesago": 5474,
+        "dose": 7,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T21:00:00"
+      },
+      {
+        "minutesago": 5414,
+        "dose": 8.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T22:00:00"
+      },
+      {
+        "minutesago": 5354,
+        "dose": 10,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-28T23:00:00"
+      },
+      {
+        "minutesago": 5294,
+        "dose": 6,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T00:00:00"
+      },
+      {
+        "minutesago": 5234,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T01:00:00"
+      },
+      {
+        "minutesago": 5174,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T02:00:00"
+      },
+      {
+        "minutesago": 5114,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T03:00:00"
+      },
+      {
+        "minutesago": 5054,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T04:00:00"
+      },
+      {
+        "minutesago": 4994,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T05:00:00"
+      },
+      {
+        "minutesago": 4934,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T06:00:00"
+      },
+      {
+        "minutesago": 4754,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T09:00:00"
+      },
+      {
+        "minutesago": 4694,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T10:00:00"
+      },
+      {
+        "minutesago": 4634,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T11:00:00"
+      },
+      {
+        "minutesago": 4574,
+        "dose": 10,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T12:00:00"
+      },
+      {
+        "minutesago": 4514,
+        "dose": 10,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T13:00:00"
+      },
+      {
+        "minutesago": 4454,
+        "dose": 10,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T14:00:00"
+      },
+      {
+        "minutesago": 4394,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T15:00:00"
+      },
+      {
+        "minutesago": 4334,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T16:00:00"
+      },
+      {
+        "minutesago": 4319,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T16:15:00"
+      },
+      {
+        "minutesago": 4274,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T17:00:00"
+      },
+      {
+        "minutesago": 4214,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:00:00"
+      },
+      {
+        "minutesago": 4179,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:35:00"
+      },
+      {
+        "minutesago": 4164,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T18:50:00"
+      },
+      {
+        "minutesago": 4154,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T19:00:00"
+      },
+      {
+        "minutesago": 4119,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T19:35:00"
+      },
+      {
+        "minutesago": 4094,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T20:00:00"
+      },
+      {
+        "minutesago": 4079,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T20:15:00"
+      },
+      {
+        "minutesago": 4034,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T21:00:00"
+      },
+      {
+        "minutesago": 3974,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T22:00:00"
+      },
+      {
+        "minutesago": 3914,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-29T23:00:00"
+      },
+      {
+        "minutesago": 3854,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T00:00:00"
+      },
+      {
+        "minutesago": 3851,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T00:03:00"
+      },
+      {
+        "minutesago": 3794,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T01:00:00"
+      },
+      {
+        "minutesago": 3734,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T02:00:00"
+      },
+      {
+        "minutesago": 3674,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T03:00:00"
+      },
+      {
+        "minutesago": 3614,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T04:00:00"
+      },
+      {
+        "minutesago": 3554,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T05:00:00"
+      },
+      {
+        "minutesago": 3545,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T05:09:00"
+      },
+      {
+        "minutesago": 3494,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T06:00:00"
+      },
+      {
+        "minutesago": 3434,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T07:00:00"
+      },
+      {
+        "minutesago": 3374,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T08:00:00"
+      },
+      {
+        "minutesago": 3314,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T09:00:00"
+      },
+      {
+        "minutesago": 3300,
+        "dose": 0,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T09:14:00"
+      },
+      {
+        "minutesago": 3254,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T10:00:00"
+      },
+      {
+        "minutesago": 3194,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T11:00:00"
+      },
+      {
+        "minutesago": 3134,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T12:00:00"
+      },
+      {
+        "minutesago": 3074,
+        "dose": 5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T13:00:00"
+      },
+      {
+        "minutesago": 3014,
+        "dose": 6,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T14:00:00"
+      },
+      {
+        "minutesago": 2954,
+        "dose": 6,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T15:00:00"
+      },
+      {
+        "minutesago": 2894,
+        "dose": 6,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T16:00:00"
+      },
+      {
+        "minutesago": 2866,
+        "dose": 6,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T16:28:00"
+      },
+      {
+        "minutesago": 2834,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T17:00:00"
+      },
+      {
+        "minutesago": 2774,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T18:00:00"
+      },
+      {
+        "minutesago": 2714,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T19:00:00"
+      },
+      {
+        "minutesago": 2654,
+        "dose": 1,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T20:00:00"
+      },
+      {
+        "minutesago": 2594,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T21:00:00"
+      },
+      {
+        "minutesago": 2543,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T21:51:00"
+      },
+      {
+        "minutesago": 2534,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T22:00:00"
+      },
+      {
+        "minutesago": 2474,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T23:00:00"
+      },
+      {
+        "minutesago": 2428,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-30T23:46:00"
+      },
+      {
+        "minutesago": 2414,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T00:00:00"
+      },
+      {
+        "minutesago": 2354,
+        "dose": 2.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T01:00:00"
+      },
+      {
+        "minutesago": 2294,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T02:00:00"
+      },
+      {
+        "minutesago": 2234,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T03:00:00"
+      },
+      {
+        "minutesago": 2174,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T04:00:00"
+      },
+      {
+        "minutesago": 2138,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T04:36:00"
+      },
+      {
+        "minutesago": 2114,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T05:00:00"
+      },
+      {
+        "minutesago": 2084,
+        "dose": 4.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T05:30:00"
+      },
+      {
+        "minutesago": 2054,
+        "dose": 4.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T06:00:00"
+      },
+      {
+        "minutesago": 2039,
+        "dose": 4.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T06:15:00"
+      },
+      {
+        "minutesago": 1994,
+        "dose": 4.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T07:00:00"
+      },
+      {
+        "minutesago": 1934,
+        "dose": 5.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T08:00:00"
+      },
+      {
+        "minutesago": 1874,
+        "dose": 6.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T09:00:00"
+      },
+      {
+        "minutesago": 1814,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T10:00:00"
+      },
+      {
+        "minutesago": 1754,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T11:00:00"
+      },
+      {
+        "minutesago": 1694,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T12:00:00"
+      },
+      {
+        "minutesago": 1634,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T13:00:00"
+      },
+      {
+        "minutesago": 1599,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T13:35:00"
+      },
+      {
+        "minutesago": 1574,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T14:00:00"
+      },
+      {
+        "minutesago": 1514,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T15:00:00"
+      },
+      {
+        "minutesago": 1454,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T16:00:00"
+      },
+      {
+        "minutesago": 1426,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T16:28:00"
+      },
+      {
+        "minutesago": 1394,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T17:00:00"
+      },
+      {
+        "minutesago": 1334,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T18:00:00"
+      },
+      {
+        "minutesago": 1274,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T19:00:00"
+      },
+      {
+        "minutesago": 1214,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T20:00:00"
+      },
+      {
+        "minutesago": 1189,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T20:25:00"
+      },
+      {
+        "minutesago": 1154,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T21:00:00"
+      },
+      {
+        "minutesago": 1094,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T22:00:00"
+      },
+      {
+        "minutesago": 1064,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T22:30:00"
+      },
+      {
+        "minutesago": 1034,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T23:00:00"
+      },
+      {
+        "minutesago": 1019,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-03-31T23:15:00"
+      },
+      {
+        "minutesago": 974,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T00:00:00"
+      },
+      {
+        "minutesago": 934,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T00:40:00"
+      },
+      {
+        "minutesago": 914,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T01:00:00"
+      },
+      {
+        "minutesago": 854,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T02:00:00"
+      },
+      {
+        "minutesago": 794,
+        "dose": 4,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T03:00:00"
+      },
+      {
+        "minutesago": 791,
+        "dose": 0.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T03:03:00"
+      },
+      {
+        "minutesago": 779,
+        "dose": 0.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T03:15:00"
+      },
+      {
+        "minutesago": 734,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T04:00:00"
+      },
+      {
+        "minutesago": 707,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T04:27:00"
+      },
+      {
+        "minutesago": 674,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T05:00:00"
+      },
+      {
+        "minutesago": 614,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T06:00:00"
+      },
+      {
+        "minutesago": 554,
+        "dose": 2,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T07:00:00"
+      },
+      {
+        "minutesago": 494,
+        "dose": 2.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T08:00:00"
+      },
+      {
+        "minutesago": 434,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T09:00:00"
+      },
+      {
+        "minutesago": 374,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T10:00:00"
+      },
+      {
+        "minutesago": 314,
+        "dose": 3.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T11:00:00"
+      },
+      {
+        "minutesago": 254,
+        "dose": 4.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T12:00:00"
+      },
+      {
+        "minutesago": 194,
+        "dose": 5.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T13:00:00"
+      },
+      {
+        "minutesago": 134,
+        "dose": 6.5,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T14:00:00"
+      },
+      {
+        "minutesago": 74,
+        "dose": 3,
+        "doseunit": "UNIT/hr",
+        "recordeddtm": "2019-04-01T15:00:00"
+      }
+    ]},
+    "calcmedian": 5.4,
+    "itemname": "Insulin",
+    "visitguid": 9001831998100270,
+    "rank": 60,
+    "cfinal": "endo",
+    "c1": "insulin",
+    "c2": "antidiabetic agents"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 8414,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-26T20:00:00"
+      },
+      {
+        "minutesago": 8354,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-26T21:00:00"
+      },
+      {
+        "minutesago": 8294,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-26T22:00:00"
+      },
+      {
+        "minutesago": 8234,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-26T23:00:00"
+      },
+      {
+        "minutesago": 8174,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T00:00:00"
+      },
+      {
+        "minutesago": 8114,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T01:00:00"
+      },
+      {
+        "minutesago": 8054,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T02:00:00"
+      },
+      {
+        "minutesago": 7994,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T03:00:00"
+      },
+      {
+        "minutesago": 7934,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T04:00:00"
+      },
+      {
+        "minutesago": 7874,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T05:00:00"
+      },
+      {
+        "minutesago": 7814,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T06:00:00"
+      },
+      {
+        "minutesago": 7754,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T07:00:00"
+      },
+      {
+        "minutesago": 7694,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T08:00:00"
+      },
+      {
+        "minutesago": 7634,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T09:00:00"
+      },
+      {
+        "minutesago": 7574,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T10:00:00"
+      },
+      {
+        "minutesago": 7514,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T11:00:00"
+      },
+      {
+        "minutesago": 7454,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T12:00:00"
+      },
+      {
+        "minutesago": 7394,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T13:00:00"
+      },
+      {
+        "minutesago": 7334,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T14:00:00"
+      },
+      {
+        "minutesago": 7274,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T15:00:00"
+      },
+      {
+        "minutesago": 7214,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T16:00:00"
+      },
+      {
+        "minutesago": 7154,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T17:00:00"
+      },
+      {
+        "minutesago": 7094,
+        "dose": 1,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T18:00:00"
+      },
+      {
+        "minutesago": 7034,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T19:00:00"
+      },
+      {
+        "minutesago": 6974,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T20:00:00"
+      },
+      {
+        "minutesago": 6914,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T21:00:00"
+      },
+      {
+        "minutesago": 6854,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T22:00:00"
+      },
+      {
+        "minutesago": 6794,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-27T23:00:00"
+      },
+      {
+        "minutesago": 6734,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-28T00:00:00"
+      },
+      {
+        "minutesago": 6674,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-28T01:00:00"
+      },
+      {
+        "minutesago": 6614,
+        "dose": 0.5,
+        "doseunit": "mg/min",
+        "recordeddtm": "2019-03-28T02:00:00"
+      }
+    ]},
+    "calcmedian": 0,
+    "itemname": "Amiodarone.",
+    "visitguid": 9001831998100270,
+    "rank": 100,
+    "cfinal": "other"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 1694,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T12:00:00"
+      },
+      {
+        "minutesago": 1634,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T13:00:00"
+      },
+      {
+        "minutesago": 1599,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T13:35:00"
+      },
+      {
+        "minutesago": 1574,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T14:00:00"
+      },
+      {
+        "minutesago": 1514,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T15:00:00"
+      },
+      {
+        "minutesago": 1454,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T16:00:00"
+      },
+      {
+        "minutesago": 1426,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T16:28:00"
+      },
+      {
+        "minutesago": 1394,
+        "dose": 0.3,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T17:00:00"
+      },
+      {
+        "minutesago": 1334,
+        "dose": 0.3,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T18:00:00"
+      },
+      {
+        "minutesago": 1274,
+        "dose": 0.3,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T19:00:00"
+      },
+      {
+        "minutesago": 1214,
+        "dose": 0.6,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T20:00:00"
+      },
+      {
+        "minutesago": 1189,
+        "dose": 0.6,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T20:25:00"
+      },
+      {
+        "minutesago": 1154,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T21:00:00"
+      },
+      {
+        "minutesago": 1094,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T22:00:00"
+      },
+      {
+        "minutesago": 1064,
+        "dose": 0.2,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T22:30:00"
+      },
+      {
+        "minutesago": 1034,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T23:00:00"
+      },
+      {
+        "minutesago": 1019,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-03-31T23:15:00"
+      },
+      {
+        "minutesago": 974,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T00:00:00"
+      },
+      {
+        "minutesago": 934,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T00:40:00"
+      },
+      {
+        "minutesago": 914,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T01:00:00"
+      },
+      {
+        "minutesago": 854,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T02:00:00"
+      },
+      {
+        "minutesago": 794,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T03:00:00"
+      },
+      {
+        "minutesago": 791,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T03:03:00"
+      },
+      {
+        "minutesago": 779,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T03:15:00"
+      },
+      {
+        "minutesago": 734,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T04:00:00"
+      },
+      {
+        "minutesago": 707,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T04:27:00"
+      },
+      {
+        "minutesago": 674,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T05:00:00"
+      },
+      {
+        "minutesago": 614,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T06:00:00"
+      },
+      {
+        "minutesago": 554,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T07:00:00"
+      },
+      {
+        "minutesago": 494,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T08:00:00"
+      },
+      {
+        "minutesago": 434,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T09:00:00"
+      },
+      {
+        "minutesago": 374,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T10:00:00"
+      },
+      {
+        "minutesago": 314,
+        "dose": 0,
+        "doseunit": "microgram/kg/hr",
+        "recordeddtm": "2019-04-01T11:00:00"
+      }
+    ]},
+    "calcmedian": 0,
+    "itemname": "Dexmedetomidine 400 microgram/100ml",
+    "visitguid": 9001831998100270,
+    "rank": 100,
+    "cfinal": "other"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 8714,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-26T15:00:00"
+      },
+      {
+        "minutesago": 8654,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-26T16:00:00"
+      },
+      {
+        "minutesago": 8594,
+        "dose": 300,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-26T17:00:00"
+      },
+      {
+        "minutesago": 8087,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-27T01:27:00"
+      },
+      {
+        "minutesago": 7729,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-27T07:25:00"
+      },
+      {
+        "minutesago": 7016,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-27T19:18:00"
+      },
+      {
+        "minutesago": 6804,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-27T22:50:00"
+      },
+      {
+        "minutesago": 6803,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-27T22:51:00"
+      },
+      {
+        "minutesago": 6304,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-28T07:10:00"
+      },
+      {
+        "minutesago": 5597,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-28T18:57:00"
+      },
+      {
+        "minutesago": 5479,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-28T20:55:00"
+      },
+      {
+        "minutesago": 5254,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T00:40:00"
+      },
+      {
+        "minutesago": 5214,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T01:20:00"
+      },
+      {
+        "minutesago": 5150,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T02:24:00"
+      },
+      {
+        "minutesago": 5149,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T02:25:00"
+      },
+      {
+        "minutesago": 4848,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T07:26:00"
+      },
+      {
+        "minutesago": 4544,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T12:30:00"
+      },
+      {
+        "minutesago": 4101,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T19:53:00"
+      },
+      {
+        "minutesago": 3959,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-29T22:15:00"
+      },
+      {
+        "minutesago": 3444,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T06:50:00"
+      },
+      {
+        "minutesago": 3392,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T07:42:00"
+      },
+      {
+        "minutesago": 3374,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T08:00:00"
+      },
+      {
+        "minutesago": 3314,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T09:00:00"
+      },
+      {
+        "minutesago": 3254,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T10:00:00"
+      },
+      {
+        "minutesago": 3239,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T10:15:00"
+      },
+      {
+        "minutesago": 3194,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T11:00:00"
+      },
+      {
+        "minutesago": 3134,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T12:00:00"
+      },
+      {
+        "minutesago": 3074,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T13:00:00"
+      },
+      {
+        "minutesago": 3041,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T13:33:00"
+      },
+      {
+        "minutesago": 3014,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T14:00:00"
+      },
+      {
+        "minutesago": 2894,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T16:00:00"
+      },
+      {
+        "minutesago": 2834,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T17:00:00"
+      },
+      {
+        "minutesago": 2774,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T18:00:00"
+      },
+      {
+        "minutesago": 2714,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T19:00:00"
+      },
+      {
+        "minutesago": 2704,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T19:10:00"
+      },
+      {
+        "minutesago": 2534,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T22:00:00"
+      },
+      {
+        "minutesago": 2474,
+        "dose": 125,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T23:00:00"
+      },
+      {
+        "minutesago": 2431,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-30T23:43:00"
+      },
+      {
+        "minutesago": 2094,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T05:20:00"
+      },
+      {
+        "minutesago": 1979,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T07:15:00"
+      },
+      {
+        "minutesago": 1934,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T08:00:00"
+      },
+      {
+        "minutesago": 1874,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T09:00:00"
+      },
+      {
+        "minutesago": 1850,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T09:24:00"
+      },
+      {
+        "minutesago": 1849,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T09:25:00"
+      },
+      {
+        "minutesago": 1814,
+        "dose": 50,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T10:00:00"
+      },
+      {
+        "minutesago": 1754,
+        "dose": 50,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T11:00:00"
+      },
+      {
+        "minutesago": 1694,
+        "dose": 25,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T12:00:00"
+      },
+      {
+        "minutesago": 1634,
+        "dose": 0,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T13:00:00"
+      },
+      {
+        "minutesago": 1574,
+        "dose": 0,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T14:00:00"
+      },
+      {
+        "minutesago": 1049,
+        "dose": 25,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T22:45:00"
+      },
+      {
+        "minutesago": 1009,
+        "dose": 50,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-03-31T23:25:00"
+      },
+      {
+        "minutesago": 974,
+        "dose": 75,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T00:00:00"
+      },
+      {
+        "minutesago": 854,
+        "dose": 100,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T02:00:00"
+      },
+      {
+        "minutesago": 813,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T02:41:00"
+      },
+      {
+        "minutesago": 764,
+        "dose": 150,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T03:30:00"
+      },
+      {
+        "minutesago": 734,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T04:00:00"
+      },
+      {
+        "minutesago": 497,
+        "dose": 200,
+        "doseunit": "microgram/hr",
+        "recordeddtm": "2019-04-01T07:57:00"
+      }
+    ]},
+    "calcmedian": 0,
+    "itemname": "fentaNYL.",
+    "visitguid": 9001831998100270,
+    "rank": 100,
+    "cfinal": "other"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 8234,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-26T23:00:00"
+      },
+      {
+        "minutesago": 8174,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T00:00:00"
+      },
+      {
+        "minutesago": 8114,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T01:00:00"
+      },
+      {
+        "minutesago": 8054,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T02:00:00"
+      },
+      {
+        "minutesago": 7994,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T03:00:00"
+      },
+      {
+        "minutesago": 7934,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T04:00:00"
+      },
+      {
+        "minutesago": 7874,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T05:00:00"
+      },
+      {
+        "minutesago": 7814,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T06:00:00"
+      },
+      {
+        "minutesago": 7754,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T07:00:00"
+      },
+      {
+        "minutesago": 7694,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T08:00:00"
+      },
+      {
+        "minutesago": 7634,
+        "dose": 1,
+        "doseunit": "gram/hr",
+        "recordeddtm": "2019-03-27T09:00:00"
+      }
+    ]},
+    "calcmedian": 0,
+    "itemname": "Magnesium Sulfate",
+    "visitguid": 9001831998100270,
+    "rank": 100,
+    "cfinal": "other"
+  },
+  {
+    "doses": {"admin": [
+      {
+        "minutesago": 8414,
+        "dose": 8,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T20:00:00"
+      },
+      {
+        "minutesago": 8354,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T21:00:00"
+      },
+      {
+        "minutesago": 8294,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T22:00:00"
+      },
+      {
+        "minutesago": 8234,
+        "dose": 14,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-26T23:00:00"
+      },
+      {
+        "minutesago": 8174,
+        "dose": 14,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T00:00:00"
+      },
+      {
+        "minutesago": 8114,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T01:00:00"
+      },
+      {
+        "minutesago": 8054,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T02:00:00"
+      },
+      {
+        "minutesago": 7994,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T03:00:00"
+      },
+      {
+        "minutesago": 7934,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T04:00:00"
+      },
+      {
+        "minutesago": 7874,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T05:00:00"
+      },
+      {
+        "minutesago": 7814,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T06:00:00"
+      },
+      {
+        "minutesago": 7754,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T07:00:00"
+      },
+      {
+        "minutesago": 7694,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T08:00:00"
+      },
+      {
+        "minutesago": 7634,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T09:00:00"
+      },
+      {
+        "minutesago": 7574,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T10:00:00"
+      },
+      {
+        "minutesago": 7514,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T11:00:00"
+      },
+      {
+        "minutesago": 7454,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T12:00:00"
+      },
+      {
+        "minutesago": 7394,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T13:00:00"
+      },
+      {
+        "minutesago": 7334,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T14:00:00"
+      },
+      {
+        "minutesago": 7274,
+        "dose": 8,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T15:00:00"
+      },
+      {
+        "minutesago": 7214,
+        "dose": 8,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T16:00:00"
+      },
+      {
+        "minutesago": 7154,
+        "dose": 7,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T17:00:00"
+      },
+      {
+        "minutesago": 7094,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T18:00:00"
+      },
+      {
+        "minutesago": 7034,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T19:00:00"
+      },
+      {
+        "minutesago": 6974,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T20:00:00"
+      },
+      {
+        "minutesago": 6914,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T21:00:00"
+      },
+      {
+        "minutesago": 6854,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T22:00:00"
+      },
+      {
+        "minutesago": 6794,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-27T23:00:00"
+      },
+      {
+        "minutesago": 6734,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T00:00:00"
+      },
+      {
+        "minutesago": 6674,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T01:00:00"
+      },
+      {
+        "minutesago": 6614,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T02:00:00"
+      },
+      {
+        "minutesago": 6554,
+        "dose": 4,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T03:00:00"
+      },
+      {
+        "minutesago": 6494,
+        "dose": 4,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T04:00:00"
+      },
+      {
+        "minutesago": 6434,
+        "dose": 4,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T05:00:00"
+      },
+      {
+        "minutesago": 6374,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T06:00:00"
+      },
+      {
+        "minutesago": 6314,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T07:00:00"
+      },
+      {
+        "minutesago": 6254,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T08:00:00"
+      },
+      {
+        "minutesago": 6194,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T09:00:00"
+      },
+      {
+        "minutesago": 6134,
+        "dose": 1,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T10:00:00"
+      },
+      {
+        "minutesago": 6074,
+        "dose": 1,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T11:00:00"
+      },
+      {
+        "minutesago": 6014,
+        "dose": 1,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T12:00:00"
+      },
+      {
+        "minutesago": 5954,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T13:00:00"
+      },
+      {
+        "minutesago": 5894,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T14:00:00"
+      },
+      {
+        "minutesago": 5834,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T15:00:00"
+      },
+      {
+        "minutesago": 5774,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T16:00:00"
+      },
+      {
+        "minutesago": 5714,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T17:00:00"
+      },
+      {
+        "minutesago": 5654,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T18:00:00"
+      },
+      {
+        "minutesago": 5594,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T19:00:00"
+      },
+      {
+        "minutesago": 5534,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T20:00:00"
+      },
+      {
+        "minutesago": 5474,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T21:00:00"
+      },
+      {
+        "minutesago": 5414,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T22:00:00"
+      },
+      {
+        "minutesago": 5354,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-28T23:00:00"
+      },
+      {
+        "minutesago": 5294,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T00:00:00"
+      },
+      {
+        "minutesago": 5234,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T01:00:00"
+      },
+      {
+        "minutesago": 5174,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T02:00:00"
+      },
+      {
+        "minutesago": 5114,
+        "dose": 8,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T03:00:00"
+      },
+      {
+        "minutesago": 5054,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T04:00:00"
+      },
+      {
+        "minutesago": 4994,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T05:00:00"
+      },
+      {
+        "minutesago": 4934,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T06:00:00"
+      },
+      {
+        "minutesago": 4874,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T07:00:00"
+      },
+      {
+        "minutesago": 4814,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T08:00:00"
+      },
+      {
+        "minutesago": 4754,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T09:00:00"
+      },
+      {
+        "minutesago": 4694,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T10:00:00"
+      },
+      {
+        "minutesago": 4634,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T11:00:00"
+      },
+      {
+        "minutesago": 4574,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T12:00:00"
+      },
+      {
+        "minutesago": 4514,
+        "dose": 11,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T13:00:00"
+      },
+      {
+        "minutesago": 4454,
+        "dose": 10,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T14:00:00"
+      },
+      {
+        "minutesago": 4394,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T15:00:00"
+      },
+      {
+        "minutesago": 4334,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T16:00:00"
+      },
+      {
+        "minutesago": 4319,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T16:15:00"
+      },
+      {
+        "minutesago": 4274,
+        "dose": 12,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T17:00:00"
+      },
+      {
+        "minutesago": 4214,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T18:00:00"
+      },
+      {
+        "minutesago": 4179,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T18:35:00"
+      },
+      {
+        "minutesago": 4164,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T18:50:00"
+      },
+      {
+        "minutesago": 4154,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T19:00:00"
+      },
+      {
+        "minutesago": 4119,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T19:35:00"
+      },
+      {
+        "minutesago": 4094,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T20:00:00"
+      },
+      {
+        "minutesago": 4079,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T20:15:00"
+      },
+      {
+        "minutesago": 4034,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T21:00:00"
+      },
+      {
+        "minutesago": 3974,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T22:00:00"
+      },
+      {
+        "minutesago": 3914,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-29T23:00:00"
+      },
+      {
+        "minutesago": 3854,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T00:00:00"
+      },
+      {
+        "minutesago": 3851,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T00:03:00"
+      },
+      {
+        "minutesago": 3794,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T01:00:00"
+      },
+      {
+        "minutesago": 3734,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T02:00:00"
+      },
+      {
+        "minutesago": 3674,
+        "dose": 9,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T03:00:00"
+      },
+      {
+        "minutesago": 3614,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T04:00:00"
+      },
+      {
+        "minutesago": 3554,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T05:00:00"
+      },
+      {
+        "minutesago": 3545,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T05:09:00"
+      },
+      {
+        "minutesago": 3494,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T06:00:00"
+      },
+      {
+        "minutesago": 3434,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T07:00:00"
+      },
+      {
+        "minutesago": 3374,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T08:00:00"
+      },
+      {
+        "minutesago": 3314,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T09:00:00"
+      },
+      {
+        "minutesago": 3300,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T09:14:00"
+      },
+      {
+        "minutesago": 3254,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T10:00:00"
+      },
+      {
+        "minutesago": 3194,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T11:00:00"
+      },
+      {
+        "minutesago": 3141,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T11:53:00"
+      },
+      {
+        "minutesago": 3134,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T12:00:00"
+      },
+      {
+        "minutesago": 3074,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T13:00:00"
+      },
+      {
+        "minutesago": 3014,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T14:00:00"
+      },
+      {
+        "minutesago": 2954,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T15:00:00"
+      },
+      {
+        "minutesago": 2894,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T16:00:00"
+      },
+      {
+        "minutesago": 2866,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T16:28:00"
+      },
+      {
+        "minutesago": 2834,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T17:00:00"
+      },
+      {
+        "minutesago": 2774,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T18:00:00"
+      },
+      {
+        "minutesago": 2714,
+        "dose": 6,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T19:00:00"
+      },
+      {
+        "minutesago": 2654,
+        "dose": 5,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T20:00:00"
+      },
+      {
+        "minutesago": 2594,
+        "dose": 4,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T21:00:00"
+      },
+      {
+        "minutesago": 2543,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T21:51:00"
+      },
+      {
+        "minutesago": 2534,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T22:00:00"
+      },
+      {
+        "minutesago": 2474,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T23:00:00"
+      },
+      {
+        "minutesago": 2428,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-30T23:46:00"
+      },
+      {
+        "minutesago": 2414,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T00:00:00"
+      },
+      {
+        "minutesago": 2354,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T01:00:00"
+      },
+      {
+        "minutesago": 2294,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T02:00:00"
+      },
+      {
+        "minutesago": 2234,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T03:00:00"
+      },
+      {
+        "minutesago": 2174,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T04:00:00"
+      },
+      {
+        "minutesago": 2138,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T04:36:00"
+      },
+      {
+        "minutesago": 2114,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T05:00:00"
+      },
+      {
+        "minutesago": 2084,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T05:30:00"
+      },
+      {
+        "minutesago": 2054,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T06:00:00"
+      },
+      {
+        "minutesago": 2039,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T06:15:00"
+      },
+      {
+        "minutesago": 1994,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T07:00:00"
+      },
+      {
+        "minutesago": 1934,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T08:00:00"
+      },
+      {
+        "minutesago": 1874,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T09:00:00"
+      },
+      {
+        "minutesago": 1814,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T10:00:00"
+      },
+      {
+        "minutesago": 1754,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T11:00:00"
+      },
+      {
+        "minutesago": 1694,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T12:00:00"
+      },
+      {
+        "minutesago": 1634,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T13:00:00"
+      },
+      {
+        "minutesago": 1599,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T13:35:00"
+      },
+      {
+        "minutesago": 1574,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T14:00:00"
+      },
+      {
+        "minutesago": 1514,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T15:00:00"
+      },
+      {
+        "minutesago": 1454,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T16:00:00"
+      },
+      {
+        "minutesago": 1426,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T16:28:00"
+      },
+      {
+        "minutesago": 1394,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T17:00:00"
+      },
+      {
+        "minutesago": 1334,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T18:00:00"
+      },
+      {
+        "minutesago": 1274,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T19:00:00"
+      },
+      {
+        "minutesago": 1214,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T20:00:00"
+      },
+      {
+        "minutesago": 1189,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T20:25:00"
+      },
+      {
+        "minutesago": 1154,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T21:00:00"
+      },
+      {
+        "minutesago": 1094,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T22:00:00"
+      },
+      {
+        "minutesago": 1064,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T22:30:00"
+      },
+      {
+        "minutesago": 1034,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T23:00:00"
+      },
+      {
+        "minutesago": 1019,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-03-31T23:15:00"
+      },
+      {
+        "minutesago": 974,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T00:00:00"
+      },
+      {
+        "minutesago": 934,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T00:40:00"
+      },
+      {
+        "minutesago": 914,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T01:00:00"
+      },
+      {
+        "minutesago": 854,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T02:00:00"
+      },
+      {
+        "minutesago": 794,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T03:00:00"
+      },
+      {
+        "minutesago": 791,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T03:03:00"
+      },
+      {
+        "minutesago": 779,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T03:15:00"
+      },
+      {
+        "minutesago": 734,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T04:00:00"
+      },
+      {
+        "minutesago": 707,
+        "dose": 1,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T04:27:00"
+      },
+      {
+        "minutesago": 674,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T05:00:00"
+      },
+      {
+        "minutesago": 614,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T06:00:00"
+      },
+      {
+        "minutesago": 554,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T07:00:00"
+      },
+      {
+        "minutesago": 494,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T08:00:00"
+      },
+      {
+        "minutesago": 434,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T09:00:00"
+      },
+      {
+        "minutesago": 374,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T10:00:00"
+      },
+      {
+        "minutesago": 314,
+        "dose": 3,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T11:00:00"
+      },
+      {
+        "minutesago": 254,
+        "dose": 2,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T12:00:00"
+      },
+      {
+        "minutesago": 194,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T13:00:00"
+      },
+      {
+        "minutesago": 134,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T14:00:00"
+      },
+      {
+        "minutesago": 74,
+        "dose": 0,
+        "doseunit": "microgram/min",
+        "recordeddtm": "2019-04-01T15:00:00"
+      }
+    ]},
+    "calcmedian": 0,
+    "itemname": "Norepinephrine.",
+    "visitguid": 9001831998100270,
+    "rank": 100,
+    "cfinal": "other"
+  }
+]}

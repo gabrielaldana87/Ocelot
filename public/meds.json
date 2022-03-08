@@ -1,0 +1,3309 @@
+{
+  "glycemiccontrol": {"bucket": [
+    {
+      "hourlabel": [
+        "4:31A - 10:30A",
+        "4:31A - 10:30A"
+      ],
+      "nHigh": 8,
+      "fsbgs": {"fsbg": {
+        "hhmm": "05:17",
+        "textvalue": 114
+      }},
+      "maxvalue": 276,
+      "endDtm": "2019-03-29T10:30:00",
+      "nLow": 0,
+      "mean": 185,
+      "startDtm": "2019-03-29T04:30:00",
+      "stddev": 42.9,
+      "datelabel": "03/29/19",
+      "minvalue": 114
+    },
+    {
+      "hourlabel": [
+        "10:31A - 3:00P",
+        "10:31A - 3:00P"
+      ],
+      "nHigh": 10,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "10:46",
+          "textvalue": 264
+        },
+        {
+          "hhmm": "11:33",
+          "textvalue": 239
+        },
+        {
+          "hhmm": "13:34",
+          "textvalue": 171
+        }
+      ]},
+      "maxvalue": 264,
+      "endDtm": "2019-03-29T15:00:00",
+      "nLow": 0,
+      "mean": 192,
+      "startDtm": "2019-03-29T10:30:00",
+      "stddev": 43.5,
+      "datelabel": "03/29/19",
+      "minvalue": 109
+    },
+    {
+      "hourlabel": [
+        "3:01P - 7:30P",
+        "3:01P - 7:30P"
+      ],
+      "nHigh": 4,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "15:19",
+          "textvalue": 157
+        },
+        {
+          "hhmm": "15:40",
+          "textvalue": 160
+        },
+        {
+          "hhmm": "17:30",
+          "textvalue": 254
+        },
+        {
+          "hhmm": "19:22",
+          "textvalue": 213
+        }
+      ]},
+      "maxvalue": 256,
+      "endDtm": "2019-03-29T19:30:00",
+      "nLow": 0,
+      "mean": 181,
+      "startDtm": "2019-03-29T15:00:00",
+      "stddev": 44.7,
+      "datelabel": "03/29/19",
+      "minvalue": 110
+    },
+    {
+      "hourlabel": [
+        "7:31P - 4:30A",
+        "7:31P - 4:30A"
+      ],
+      "nHigh": 11,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "22:30",
+          "textvalue": 276
+        },
+        {
+          "hhmm": "23:57",
+          "textvalue": 242
+        },
+        {
+          "hhmm": "01:00",
+          "textvalue": 217
+        },
+        {
+          "hhmm": "02:32",
+          "textvalue": 184
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-03-30T04:30:00",
+      "nLow": 0,
+      "mean": 201,
+      "startDtm": "2019-03-29T19:30:00",
+      "stddev": 34.9,
+      "datelabel": "03/29/19",
+      "minvalue": 141
+    },
+    {
+      "hourlabel": [
+        "4:31A - 10:30A",
+        "4:31A - 10:30A"
+      ],
+      "nHigh": 8,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "04:39",
+          "textvalue": 186
+        },
+        {
+          "hhmm": "05:44",
+          "textvalue": 141
+        },
+        {
+          "hhmm": "06:45",
+          "textvalue": 139
+        },
+        {
+          "hhmm": "08:30",
+          "textvalue": 207
+        },
+        {
+          "hhmm": "10:27",
+          "textvalue": 276
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-03-30T10:30:00",
+      "nLow": 0,
+      "mean": 185,
+      "startDtm": "2019-03-30T04:30:00",
+      "stddev": 42.9,
+      "datelabel": "03/30/19",
+      "minvalue": 114
+    },
+    {
+      "hourlabel": [
+        "10:31A - 3:00P",
+        "10:31A - 3:00P"
+      ],
+      "nHigh": 10,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "11:44",
+          "textvalue": 248
+        },
+        {
+          "hhmm": "12:49",
+          "textvalue": 213
+        },
+        {
+          "hhmm": "14:18",
+          "textvalue": 196
+        }
+      ]},
+      "maxvalue": 264,
+      "endDtm": "2019-03-30T15:00:00",
+      "nLow": 0,
+      "mean": 192,
+      "startDtm": "2019-03-30T10:30:00",
+      "stddev": 43.5,
+      "datelabel": "03/30/19",
+      "minvalue": 109
+    },
+    {
+      "hourlabel": [
+        "3:01P - 7:30P",
+        "3:01P - 7:30P"
+      ],
+      "nHigh": 4,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "15:08",
+          "textvalue": 175
+        },
+        {
+          "hhmm": "15:50",
+          "textvalue": 166
+        },
+        {
+          "hhmm": "17:14",
+          "textvalue": 149
+        },
+        {
+          "hhmm": "18:35",
+          "textvalue": 110
+        }
+      ]},
+      "maxvalue": 256,
+      "endDtm": "2019-03-30T19:30:00",
+      "nLow": 0,
+      "mean": 181,
+      "startDtm": "2019-03-30T15:00:00",
+      "stddev": 44.7,
+      "datelabel": "03/30/19",
+      "minvalue": 110
+    },
+    {
+      "hourlabel": [
+        "7:31P - 4:30A",
+        "7:31P - 4:30A"
+      ],
+      "nHigh": 11,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "21:17",
+          "textvalue": 225
+        },
+        {
+          "hhmm": "22:32",
+          "textvalue": 183
+        },
+        {
+          "hhmm": "23:35",
+          "textvalue": 173
+        },
+        {
+          "hhmm": "01:05",
+          "textvalue": 191
+        },
+        {
+          "hhmm": "02:20",
+          "textvalue": 232
+        },
+        {
+          "hhmm": "04:02",
+          "textvalue": 225
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-03-31T04:30:00",
+      "nLow": 0,
+      "mean": 201,
+      "startDtm": "2019-03-30T19:30:00",
+      "stddev": 34.9,
+      "datelabel": "03/30/19",
+      "minvalue": 141
+    },
+    {
+      "hourlabel": [
+        "4:31A - 10:30A",
+        "4:31A - 10:30A"
+      ],
+      "nHigh": 8,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "06:33",
+          "textvalue": 173
+        },
+        {
+          "hhmm": "08:15",
+          "textvalue": 197
+        },
+        {
+          "hhmm": "09:03",
+          "textvalue": 192
+        },
+        {
+          "hhmm": "10:18",
+          "textvalue": 145
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-03-31T10:30:00",
+      "nLow": 0,
+      "mean": 185,
+      "startDtm": "2019-03-31T04:30:00",
+      "stddev": 42.9,
+      "datelabel": "03/31/19",
+      "minvalue": 114
+    },
+    {
+      "hourlabel": [
+        "10:31A - 3:00P",
+        "10:31A - 3:00P"
+      ],
+      "nHigh": 10,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "11:15",
+          "textvalue": 109
+        },
+        {
+          "hhmm": "12:28",
+          "textvalue": 140
+        },
+        {
+          "hhmm": "13:05",
+          "textvalue": 173
+        },
+        {
+          "hhmm": "14:10",
+          "textvalue": 181
+        }
+      ]},
+      "maxvalue": 264,
+      "endDtm": "2019-03-31T15:00:00",
+      "nLow": 0,
+      "mean": 192,
+      "startDtm": "2019-03-31T10:30:00",
+      "stddev": 43.5,
+      "datelabel": "03/31/19",
+      "minvalue": 109
+    },
+    {
+      "hourlabel": [
+        "3:01P - 7:30P",
+        "3:01P - 7:30P"
+      ],
+      "nHigh": 4,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "15:56",
+          "textvalue": 158
+        },
+        {
+          "hhmm": "18:12",
+          "textvalue": 194
+        },
+        {
+          "hhmm": "18:51",
+          "textvalue": 256
+        }
+      ]},
+      "maxvalue": 256,
+      "endDtm": "2019-03-31T19:30:00",
+      "nLow": 0,
+      "mean": 181,
+      "startDtm": "2019-03-31T15:00:00",
+      "stddev": 44.7,
+      "datelabel": "03/31/19",
+      "minvalue": 110
+    },
+    {
+      "hourlabel": [
+        "7:31P - 4:30A",
+        "7:31P - 4:30A"
+      ],
+      "nHigh": 11,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "20:13",
+          "textvalue": 203
+        },
+        {
+          "hhmm": "22:35",
+          "textvalue": 188
+        },
+        {
+          "hhmm": "23:39",
+          "textvalue": 164
+        },
+        {
+          "hhmm": "01:49",
+          "textvalue": 174
+        },
+        {
+          "hhmm": "04:14",
+          "textvalue": 141
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-04-01T04:30:00",
+      "nLow": 0,
+      "mean": 201,
+      "startDtm": "2019-03-31T19:30:00",
+      "stddev": 34.9,
+      "datelabel": "03/31/19",
+      "minvalue": 141
+    },
+    {
+      "hourlabel": [
+        "4:31A - 10:30A",
+        "4:31A - 10:30A"
+      ],
+      "nHigh": 8,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "05:59",
+          "textvalue": 174
+        },
+        {
+          "hhmm": "08:09",
+          "textvalue": 213
+        },
+        {
+          "hhmm": "09:15",
+          "textvalue": 240
+        },
+        {
+          "hhmm": "10:07",
+          "textvalue": 201
+        }
+      ]},
+      "maxvalue": 276,
+      "endDtm": "2019-04-01T10:30:00",
+      "nLow": 0,
+      "mean": 185,
+      "startDtm": "2019-04-01T04:30:00",
+      "stddev": 42.9,
+      "datelabel": "04/01/19",
+      "minvalue": 114
+    },
+    {
+      "hourlabel": [
+        "10:31A - 3:00P",
+        "10:31A - 3:00P"
+      ],
+      "nHigh": 10,
+      "fsbgs": {"fsbg": [
+        {
+          "hhmm": "11:10",
+          "textvalue": 230
+        },
+        {
+          "hhmm": "12:00",
+          "textvalue": 212
+        },
+        {
+          "hhmm": "12:54",
+          "textvalue": 195
+        },
+        {
+          "hhmm": "14:00",
+          "textvalue": 182
+        },
+        {
+          "hhmm": "14:57",
+          "textvalue": 137
+        }
+      ]},
+      "maxvalue": 264,
+      "endDtm": "2019-04-01T15:00:00",
+      "nLow": 0,
+      "mean": 192,
+      "startDtm": "2019-04-01T10:30:00",
+      "stddev": 43.5,
+      "datelabel": "04/01/19",
+      "minvalue": 109
+    },
+    {
+      "hourlabel": [
+        "3:01P - 7:30P",
+        "3:01P - 7:30P"
+      ],
+      "nHigh": 4,
+      "maxvalue": 256,
+      "endDtm": "2019-04-01T19:30:00",
+      "nLow": 0,
+      "mean": 181,
+      "startDtm": "2019-04-01T15:00:00",
+      "stddev": 44.7,
+      "datelabel": "04/01/19",
+      "minvalue": 110
+    },
+    {
+      "hourlabel": [
+        "7:31P - 4:30A",
+        "7:31P - 4:30A"
+      ],
+      "nHigh": 11,
+      "maxvalue": 276,
+      "endDtm": "2019-04-02T04:30:00",
+      "nLow": 0,
+      "mean": 201,
+      "startDtm": "2019-04-01T19:30:00",
+      "stddev": 34.9,
+      "datelabel": "04/01/19",
+      "minvalue": 141
+    }
+  ]},
+  "mar": {"drug": [
+    {
+      "c3": "anti-infectives",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 10,
+      "drugname": "ceFAZolin Sodium Inj",
+      "cfinal": "abx",
+      "c1": "first generation cephalosporins",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "orderdose": 2000,
+          "performedminutesago": 8270,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 186,
+          "performeddtm": "2019-03-26T22:16:32"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7726,
+          "orderdose": 2000,
+          "performedminutesago": 7653,
+          "scheduleddtm": "2019-03-27T07:20:23.277",
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 186,
+          "performeddtm": "2019-03-27T08:33:34"
+        }
+      ]},
+      "c2": "cephalosporins"
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 10,
+      "drugname": "Vancomycin Inj +R+",
+      "cfinal": "abx",
+      "c1": "glycopeptide antibiotics",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 5164,
+          "orderdose": 750,
+          "performedminutesago": 5112,
+          "scheduleddtm": "2019-03-29T02:02:46.243",
+          "taskcomment": "System Documented: 02:54, Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 58,
+          "performeddtm": "2019-03-29T02:54:03"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4506,
+          "orderdose": 750,
+          "performedminutesago": 4476,
+          "scheduleddtm": "2019-03-29T13:00:00",
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 58,
+          "performeddtm": "2019-03-29T13:30:48"
+        }
+      ]},
+      "c2": "anti-infectives"
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 10,
+      "drugname": "Vancomycin IVPB **INITIAL-72 HR STOP**",
+      "cfinal": "abx",
+      "c1": "glycopeptide antibiotics",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PiggyBack",
+        "orderdose": 1000,
+        "performedminutesago": 8983,
+        "prn": 0,
+        "frequency": "q24h",
+        "dosepctile": 57,
+        "performeddtm": "2019-03-26T10:23:27"
+      }},
+      "c2": "anti-infectives"
+    },
+    {
+      "c3": "cardiovascular agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 20,
+      "drugname": "Furosemide Inj",
+      "cfinal": "cardio",
+      "c1": "loop diuretics",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 6388,
+          "orderdose": 20,
+          "performedminutesago": 6371,
+          "scheduleddtm": "2019-03-28T05:38:26.187",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 23,
+          "performeddtm": "2019-03-28T05:55:57"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "orderdose": 10,
+          "performedminutesago": 3586,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 11,
+          "performeddtm": "2019-03-30T04:20:15"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 2441,
+          "orderdose": 20,
+          "performedminutesago": 2392,
+          "scheduleddtm": "2019-03-30T23:25:13.343",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 23,
+          "performeddtm": "2019-03-31T00:14:30"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "orderdose": 20,
+          "performedminutesago": 1109,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 23,
+          "performeddtm": "2019-03-31T21:37:18"
+        }
+      ]},
+      "c2": "diuretics"
+    },
+    {
+      "c3": "cardiovascular agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 20,
+      "drugname": "Metoprolol Tartrate Inj",
+      "cfinal": "cardio",
+      "c1": "cardioselective beta blockers",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PUSH",
+        "orderdose": 2.5,
+        "performedminutesago": 5226,
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 25,
+        "performeddtm": "2019-03-29T01:00:00"
+      }},
+      "c2": "beta-adrenergic blocking agents"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "active",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "Acetaminophen Oral Liq",
+      "cfinal": "neuro",
+      "c1": "miscellaneous analgesics",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 8069,
+          "orderdose": 650,
+          "performedminutesago": 8024,
+          "scheduleddtm": "2019-03-27T01:37:45.697",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-27T02:22:29"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 7686,
+          "orderdose": 650,
+          "performedminutesago": 7653,
+          "scheduleddtm": "2019-03-27T08:00:45.697",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-27T08:33:57"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 7326,
+          "orderdose": 650,
+          "performedminutesago": 7326,
+          "scheduleddtm": "2019-03-27T14:00:45.697",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-27T14:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 6966,
+          "orderdose": 650,
+          "performedminutesago": 6976,
+          "scheduleddtm": "2019-03-27T20:00:45.697",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-27T19:50:12"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 6606,
+          "orderdose": 650,
+          "performedminutesago": 6665,
+          "scheduleddtm": "2019-03-28T02:00:45.697",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-28T01:01:55"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5166,
+          "orderdose": 650,
+          "performedminutesago": 5166,
+          "scheduleddtm": "2019-03-29T02:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T02:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4926,
+          "orderdose": 650,
+          "performedminutesago": 4948,
+          "scheduleddtm": "2019-03-29T06:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T05:38:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4686,
+          "orderdose": 650,
+          "performedminutesago": 4739,
+          "scheduleddtm": "2019-03-29T10:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T09:07:09"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4446,
+          "orderdose": 650,
+          "performedminutesago": 4476,
+          "scheduleddtm": "2019-03-29T14:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T13:30:59"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4206,
+          "orderdose": 650,
+          "performedminutesago": 4207,
+          "scheduleddtm": "2019-03-29T18:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T17:59:50"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3726,
+          "orderdose": 650,
+          "performedminutesago": 3858,
+          "scheduleddtm": "2019-03-30T02:00:00",
+          "taskcomment": "Given early/Reason: Requested by MD/NP/PA",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T23:48:46"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3486,
+          "orderdose": 650,
+          "performedminutesago": 3574,
+          "scheduleddtm": "2019-03-30T06:00:00",
+          "taskcomment": "Given early/Reason: Requested by MD/NP/PA",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-30T04:32:36"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3366,
+          "orderdose": 650,
+          "performedminutesago": 3305,
+          "scheduleddtm": "2019-03-30T08:00:00",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-30T09:01:28"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 2738,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-30T18:28:22"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 2086,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-31T05:20:45"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 1610,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-31T13:16:57"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 1321,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-31T18:05:23"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 404,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-04-01T09:22:01"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "orderdose": 650,
+          "performedminutesago": 96,
+          "prn": 1,
+          "frequency": "q4h",
+          "dosepctile": 89,
+          "performeddtm": "2019-04-01T14:30:27"
+        }
+      ]},
+      "c2": "analgesics"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "fentaNYL Citrate Inj +R+",
+      "cfinal": "neuro",
+      "c1": "narcotic analgesics",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "orderdose": 100,
+          "performedminutesago": 8766,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 123,
+          "performeddtm": "2019-03-26T14:00:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "scheduledminutesago": 8138,
+          "orderdose": 50,
+          "performedminutesago": 8122,
+          "scheduleddtm": "2019-03-27T00:28:11.617",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-03-27T00:44:37"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "orderdose": 50,
+          "performedminutesago": 5471,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-03-28T20:55:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "scheduledminutesago": 5248,
+          "orderdose": 50,
+          "performedminutesago": 5246,
+          "scheduleddtm": "2019-03-29T00:38:47.990",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-03-29T00:40:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "orderdose": 50,
+          "performedminutesago": 2106,
+          "taskcomment": "given from Fentanyl drip see Fentanany drip charting advanced 2 cm",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-03-31T05:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "orderdose": 50,
+          "performedminutesago": 801,
+          "taskcomment": "given From Fentanyl drip See Cotrol subscance charting. Pt is Agitated fighting venitator",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-04-01T02:45:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "microgram",
+          "route": "IV PUSH",
+          "scheduledminutesago": 798,
+          "orderdose": 50,
+          "performedminutesago": 756,
+          "scheduleddtm": "2019-04-01T02:48:15.950",
+          "taskcomment": "In ct scan see control substance flow sheet",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 61,
+          "performeddtm": "2019-04-01T03:30:00"
+        }
+      ]},
+      "c2": "analgesics"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "levETIRAcetam Inj",
+      "cfinal": "neuro",
+      "c1": "pyrrolidine anticonvulsants",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "orderdose": 1000,
+          "performedminutesago": 8586,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-26T17:00:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7926,
+          "orderdose": 500,
+          "performedminutesago": 7900,
+          "scheduleddtm": "2019-03-27T04:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 22,
+          "performeddtm": "2019-03-27T04:26:26"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7206,
+          "orderdose": 500,
+          "performedminutesago": 7252,
+          "scheduleddtm": "2019-03-27T16:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 22,
+          "performeddtm": "2019-03-27T15:14:44"
+        }
+      ]},
+      "c2": "anticonvulsants"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "Midazolam HCL Inj +R+",
+      "cfinal": "neuro",
+      "c1": "benzodiazepines",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PUSH",
+        "orderdose": 2,
+        "performedminutesago": 8766,
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 46,
+        "performeddtm": "2019-03-26T14:00:00"
+      }},
+      "c2": "anxiolytics, sedatives, and hypnotics"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "Rocuronium Inj +R+",
+      "cfinal": "neuro",
+      "c1": "neuromuscular blocking agents",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "orderdose": 100,
+          "performedminutesago": 8766,
+          "taskcomment": "80mg IVP per MD Adrian",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 139,
+          "performeddtm": "2019-03-26T14:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 5181,
+          "orderdose": 60,
+          "performedminutesago": 5191,
+          "scheduleddtm": "2019-03-29T01:45:32.997",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 83,
+          "performeddtm": "2019-03-29T01:35:00"
+        }
+      ]},
+      "c2": "muscle relaxants"
+    },
+    {
+      "c3": "central nervous system agents",
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 40,
+      "drugname": "busPIRone Oral",
+      "cfinal": "neuro",
+      "c1": "miscellaneous anxiolytics, sedatives and hypnotics",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 7925,
+          "orderdose": 30,
+          "performedminutesago": 7900,
+          "scheduleddtm": "2019-03-27T04:01:45.697",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-27T04:26:18"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 7445,
+          "orderdose": 30,
+          "performedminutesago": 7397,
+          "scheduleddtm": "2019-03-27T12:01:45.697",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-27T12:49:21"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 6906,
+          "orderdose": 30,
+          "performedminutesago": 6925,
+          "scheduleddtm": "2019-03-27T21:00:45.697",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-27T20:41:54"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 6426,
+          "orderdose": 30,
+          "performedminutesago": 6449,
+          "scheduleddtm": "2019-03-28T05:00:45.697",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-28T04:37:43"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5166,
+          "orderdose": 30,
+          "performedminutesago": 5154,
+          "scheduleddtm": "2019-03-29T02:00:00",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-29T02:12:19"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4686,
+          "orderdose": 30,
+          "performedminutesago": 4739,
+          "scheduleddtm": "2019-03-29T10:00:00",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-29T09:07:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4206,
+          "orderdose": 30,
+          "performedminutesago": 4206,
+          "scheduleddtm": "2019-03-29T18:00:00",
+          "taskcomment": "Manually Charted Reason: Bar Code will not scan",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-29T18:00:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3726,
+          "orderdose": 30,
+          "performedminutesago": 3708,
+          "scheduleddtm": "2019-03-30T02:00:00",
+          "taskcomment": "System Documented: 02:18",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 85,
+          "performeddtm": "2019-03-30T02:18:44"
+        }
+      ]},
+      "c2": "anxiolytics, sedatives, and hypnotics"
+    },
+    {
+      "c3": "coagulation modifiers",
+      "orderstatus": "active",
+      "visitguid": 9001831998100270,
+      "rank": 50,
+      "drugname": "Heparin Inj",
+      "cfinal": "heme",
+      "c1": "heparins",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "orderdose": 5000,
+          "performedminutesago": 3075,
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T12:51:22"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 2595,
+          "orderdose": 5000,
+          "performedminutesago": 2558,
+          "scheduleddtm": "2019-03-30T20:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T21:28:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 2115,
+          "orderdose": 5000,
+          "performedminutesago": 2128,
+          "scheduleddtm": "2019-03-31T04:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T04:38:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 1635,
+          "orderdose": 5000,
+          "performedminutesago": 1635,
+          "scheduleddtm": "2019-03-31T12:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T12:51:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 1155,
+          "orderdose": 5000,
+          "performedminutesago": 1106,
+          "scheduleddtm": "2019-03-31T20:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T21:40:38"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 675,
+          "orderdose": 5000,
+          "performedminutesago": 681,
+          "scheduleddtm": "2019-04-01T04:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T04:45:17"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "Unit",
+          "route": "Subcutaneous",
+          "scheduledminutesago": 195,
+          "orderdose": 5000,
+          "performedminutesago": 239,
+          "scheduleddtm": "2019-04-01T12:51:22",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T12:07:10"
+        }
+      ]},
+      "c2": "anticoagulants"
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 50,
+      "drugname": "Alteplase Cath Clearance +R+",
+      "cfinal": "heme",
+      "c1": "thrombolytics",
+      "tasks": {"task": {
+        "taskstatus": "Late",
+        "uom": "mg",
+        "route": "Instill via",
+        "scheduledminutesago": 1079,
+        "orderdose": 2,
+        "performedminutesago": 882,
+        "scheduleddtm": "2019-03-31T22:07:15.147",
+        "taskcomment": "Given late/Reason: Treatment in Progress",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-04-01T01:24:43"
+      }},
+      "c2": "coagulation modifiers"
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 50,
+      "drugname": "Protamine Inj",
+      "cfinal": "heme",
+      "c1": "heparin antagonists",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PiggyBack",
+        "orderdose": 10,
+        "performedminutesago": 8789,
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 18,
+        "performeddtm": "2019-03-26T13:37:11"
+      }},
+      "c2": "coagulation modifiers"
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 80,
+      "drugname": "Phytonadione Inj",
+      "cfinal": "gi",
+      "c1": "vitamins",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "orderdose": 10,
+          "performedminutesago": 8789,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 166,
+          "performeddtm": "2019-03-26T13:37:38"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4998,
+          "orderdose": 10,
+          "performedminutesago": 4956,
+          "scheduleddtm": "2019-03-29T04:48:30.957",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 166,
+          "performeddtm": "2019-03-29T05:30:02"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4229,
+          "orderdose": 10,
+          "performedminutesago": 4208,
+          "scheduleddtm": "2019-03-29T17:37:03.433",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 166,
+          "performeddtm": "2019-03-29T17:58:55"
+        }
+      ]},
+      "c2": "nutritional products"
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 80,
+      "drugname": "Docusate Sodium Oral Liq",
+      "cfinal": "gi",
+      "c1": "laxatives",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 6186,
+          "orderdose": 100,
+          "performedminutesago": 6177,
+          "scheduleddtm": "2019-03-28T09:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-28T09:09:44"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5946,
+          "orderdose": 100,
+          "performedminutesago": 5977,
+          "scheduleddtm": "2019-03-28T13:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-28T12:29:55"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5706,
+          "orderdose": 100,
+          "performedminutesago": 5670,
+          "scheduleddtm": "2019-03-28T17:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-28T17:36:39"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4746,
+          "orderdose": 100,
+          "performedminutesago": 4750,
+          "scheduleddtm": "2019-03-29T09:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-29T08:56:05"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4506,
+          "orderdose": 100,
+          "performedminutesago": 4476,
+          "scheduleddtm": "2019-03-29T13:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-29T13:30:55"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4266,
+          "orderdose": 100,
+          "performedminutesago": 4207,
+          "scheduleddtm": "2019-03-29T17:00:00",
+          "prn": 0,
+          "frequency": "tid-(9,13,17)",
+          "dosepctile": 66,
+          "performeddtm": "2019-03-29T17:59:38"
+        }
+      ]},
+      "c2": "gastrointestinal agents"
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 80,
+      "drugname": "Famotidine Oral",
+      "cfinal": "gi",
+      "c1": "H2 antagonists",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 6186,
+          "orderdose": 20,
+          "performedminutesago": 6176,
+          "scheduleddtm": "2019-03-28T09:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T09:10:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5466,
+          "orderdose": 20,
+          "performedminutesago": 5495,
+          "scheduleddtm": "2019-03-28T21:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T20:31:32"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4746,
+          "orderdose": 20,
+          "performedminutesago": 4751,
+          "scheduleddtm": "2019-03-29T09:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T08:55:58"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4026,
+          "orderdose": 20,
+          "performedminutesago": 3966,
+          "scheduleddtm": "2019-03-29T21:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T22:00:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3306,
+          "orderdose": 20,
+          "performedminutesago": 3305,
+          "scheduleddtm": "2019-03-30T09:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T09:01:56"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 2586,
+          "orderdose": 20,
+          "performedminutesago": 2554,
+          "scheduleddtm": "2019-03-30T21:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T21:32:41"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 1866,
+          "orderdose": 20,
+          "performedminutesago": 1887,
+          "scheduleddtm": "2019-03-31T09:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T08:39:29"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 1146,
+          "orderdose": 20,
+          "performedminutesago": 1104,
+          "scheduleddtm": "2019-03-31T21:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T21:42:07"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 426,
+          "orderdose": 20,
+          "performedminutesago": 440,
+          "scheduleddtm": "2019-04-01T09:00:00",
+          "prn": 0,
+          "frequency": "q12h-(9,21)",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T08:46:09"
+        }
+      ]},
+      "c2": "gastrointestinal agents"
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 80,
+      "drugname": "Senna Oral Liq",
+      "cfinal": "gi",
+      "c1": "laxatives",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "ml",
+          "route": "PER NG",
+          "scheduledminutesago": 6186,
+          "orderdose": 5,
+          "performedminutesago": 6177,
+          "scheduleddtm": "2019-03-28T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 40,
+          "performeddtm": "2019-03-28T09:09:47"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "PER NG",
+          "scheduledminutesago": 4746,
+          "orderdose": 5,
+          "performedminutesago": 4751,
+          "scheduleddtm": "2019-03-29T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 40,
+          "performeddtm": "2019-03-29T08:55:18"
+        }
+      ]},
+      "c2": "gastrointestinal agents"
+    },
+    {
+      "orderstatus": "active",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Amiodarone Tab",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 6366,
+          "orderdose": 200,
+          "performedminutesago": 6370,
+          "scheduleddtm": "2019-03-28T06:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T05:56:19"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 5646,
+          "orderdose": 200,
+          "performedminutesago": 5670,
+          "scheduleddtm": "2019-03-28T18:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T17:36:55"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4926,
+          "orderdose": 200,
+          "performedminutesago": 4948,
+          "scheduleddtm": "2019-03-29T06:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T05:38:13"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 4206,
+          "orderdose": 200,
+          "performedminutesago": 4207,
+          "scheduleddtm": "2019-03-29T18:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T17:59:12"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 3486,
+          "orderdose": 200,
+          "performedminutesago": 3459,
+          "scheduleddtm": "2019-03-30T06:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T06:27:49"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 2766,
+          "orderdose": 200,
+          "performedminutesago": 2752,
+          "scheduleddtm": "2019-03-30T18:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T18:14:55"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 2046,
+          "orderdose": 200,
+          "performedminutesago": 2084,
+          "scheduleddtm": "2019-03-31T06:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T05:22:47"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 1326,
+          "orderdose": 200,
+          "performedminutesago": 1321,
+          "scheduleddtm": "2019-03-31T18:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T18:05:18"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "PER NG",
+          "scheduledminutesago": 606,
+          "orderdose": 200,
+          "performedminutesago": 617,
+          "scheduleddtm": "2019-04-01T06:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T05:49:43"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "active",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Chlorhexidine Gluconate Oral Soln",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 7446,
+          "orderdose": 15,
+          "performedminutesago": 7474,
+          "scheduleddtm": "2019-03-27T12:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-27T11:32:46"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 6726,
+          "orderdose": 15,
+          "performedminutesago": 6766,
+          "scheduleddtm": "2019-03-28T00:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-27T23:20:54"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 6006,
+          "orderdose": 15,
+          "performedminutesago": 6058,
+          "scheduleddtm": "2019-03-28T12:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-28T11:08:34"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 5286,
+          "orderdose": 15,
+          "performedminutesago": 5300,
+          "scheduleddtm": "2019-03-29T00:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-28T23:46:33"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 4566,
+          "orderdose": 15,
+          "performedminutesago": 4475,
+          "scheduleddtm": "2019-03-29T12:00:00",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-29T13:31:49"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 3846,
+          "orderdose": 15,
+          "performedminutesago": 3853,
+          "scheduleddtm": "2019-03-30T00:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-29T23:53:50"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 3126,
+          "orderdose": 15,
+          "performedminutesago": 3074,
+          "scheduleddtm": "2019-03-30T12:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-30T12:52:26"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 2406,
+          "orderdose": 15,
+          "performedminutesago": 2406,
+          "scheduleddtm": "2019-03-31T00:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-31T00:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 1686,
+          "orderdose": 15,
+          "performedminutesago": 1686,
+          "scheduleddtm": "2019-03-31T12:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-03-31T12:00:00"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 966,
+          "orderdose": 15,
+          "performedminutesago": 880,
+          "scheduleddtm": "2019-04-01T00:00:00",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-04-01T01:26:43"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "SWAB",
+          "scheduledminutesago": 246,
+          "orderdose": 15,
+          "performedminutesago": 246,
+          "scheduleddtm": "2019-04-01T12:00:00",
+          "prn": 0,
+          "frequency": "q12hr",
+          "dosepctile": 75,
+          "performeddtm": "2019-04-01T12:00:00"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "active",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Oxacillin Sodium Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 8166,
+          "orderdose": 2,
+          "performedminutesago": 8206,
+          "scheduleddtm": "2019-03-27T00:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T23:20:11"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7926,
+          "orderdose": 2,
+          "performedminutesago": 7900,
+          "scheduleddtm": "2019-03-27T04:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T04:26:23"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7686,
+          "orderdose": 2,
+          "performedminutesago": 7653,
+          "scheduleddtm": "2019-03-27T08:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T08:33:29"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7446,
+          "orderdose": 2,
+          "performedminutesago": 7402,
+          "scheduleddtm": "2019-03-27T12:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T12:44:07"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 7206,
+          "orderdose": 2,
+          "performedminutesago": 7252,
+          "scheduleddtm": "2019-03-27T16:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T15:14:41"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6966,
+          "orderdose": 2,
+          "performedminutesago": 6976,
+          "scheduleddtm": "2019-03-27T20:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T19:50:06"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6726,
+          "orderdose": 2,
+          "performedminutesago": 6770,
+          "scheduleddtm": "2019-03-28T00:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T23:16:03"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6486,
+          "orderdose": 2,
+          "performedminutesago": 6480,
+          "scheduleddtm": "2019-03-28T04:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T04:06:01"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6246,
+          "orderdose": 2,
+          "performedminutesago": 6233,
+          "scheduleddtm": "2019-03-28T08:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T08:13:47"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6006,
+          "orderdose": 2,
+          "performedminutesago": 6059,
+          "scheduleddtm": "2019-03-28T12:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T11:07:59"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 5766,
+          "orderdose": 2,
+          "performedminutesago": 5798,
+          "scheduleddtm": "2019-03-28T16:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T15:28:19"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 5526,
+          "orderdose": 2,
+          "performedminutesago": 5495,
+          "scheduleddtm": "2019-03-28T20:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T20:31:28"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 5286,
+          "orderdose": 2,
+          "performedminutesago": 5301,
+          "scheduleddtm": "2019-03-29T00:00:00",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T23:45:10"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 284,
+          "orderdose": 2,
+          "performedminutesago": 121,
+          "scheduleddtm": "2019-04-01T11:22:53.260",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "q4h",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T14:05:30"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Amiodarone Inj",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PiggyBack",
+        "scheduledminutesago": 8479,
+        "orderdose": 150,
+        "performedminutesago": 8479,
+        "scheduleddtm": "2019-03-26T18:47:09.530",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T18:47:00"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Calcium Gluconate Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6617,
+          "orderdose": 1,
+          "performedminutesago": 6535,
+          "scheduleddtm": "2019-03-28T01:49:46.847",
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T03:11:10"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4475,
+          "orderdose": 1,
+          "performedminutesago": 4446,
+          "scheduleddtm": "2019-03-29T13:31:23.090",
+          "taskcomment": "Manually Charted Reason: Bar Code will not scan",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T14:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "orderdose": 2,
+          "performedminutesago": 1703,
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T11:43:58"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "ceFEPime +R+ Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "orderdose": 2,
+          "performedminutesago": 9259,
+          "taskcomment": "Given late/Reason: Clarifying Physician Order",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T05:47:34"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 8779,
+          "orderdose": 2,
+          "performedminutesago": 8586,
+          "scheduleddtm": "2019-03-26T13:47:34",
+          "taskcomment": "late - pt unstable, no access",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T17:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "gram",
+          "route": "IV PiggyBack",
+          "orderdose": 2,
+          "performedminutesago": 405,
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T09:21:32"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Desmopressin Acetate Inj",
+      "cfinal": "other",
+      "c1": "antidiuretic hormones",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "microgram",
+        "route": "IV Piggyback",
+        "orderdose": 17,
+        "performedminutesago": 8788,
+        "taskcomment": "Given late/Reason: Treatment in Progress",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 60,
+        "performeddtm": "2019-03-26T13:38:01"
+      }},
+      "c2": "hormones/hormone modifiers"
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Lactated Ringers Bolus",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "ml",
+        "route": "IntraVENOUS",
+        "orderdose": 250,
+        "performedminutesago": 3943,
+        "taskcomment": "Given late/Reason: Requested by MD/NP/PA",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-29T22:23:14"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Magnesium Sulfate Inj",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "gram",
+        "route": "IV PiggyBack",
+        "orderdose": 1,
+        "performedminutesago": 8484,
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T18:42:00"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Mannitol 20% IVPB",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "gram",
+        "route": "IV PiggyBack",
+        "orderdose": 56,
+        "performedminutesago": 8706,
+        "taskcomment": "bag from omnicell 100g in 500ml\r\n\r\ncalled pharmacy to confirm dose, confirmed dose with MD Harminder\r\n\r\n56g in 280ml ordered - total 280ml given over 60 minutes",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T15:00:00"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Normal Saline Bolus",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "ml",
+        "route": "IntraVENOUS",
+        "orderdose": 1000,
+        "performedminutesago": 7473,
+        "taskcomment": "Given late/Reason: Treatment in Progress",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 169,
+        "performeddtm": "2019-03-27T11:33:09"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Potassium Chloride Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mEq",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6507,
+          "orderdose": 20,
+          "performedminutesago": 6454,
+          "scheduleddtm": "2019-03-28T03:39:00.957",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 83,
+          "performeddtm": "2019-03-28T04:32:14"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4813,
+          "orderdose": 20,
+          "performedminutesago": 4813,
+          "scheduleddtm": "2019-03-29T07:53:35.167",
+          "taskcomment": "Manually Charted Reason: Bar Code will not scan",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 83,
+          "performeddtm": "2019-03-29T07:53:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "IV PiggyBack",
+          "orderdose": 10,
+          "performedminutesago": 795,
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 41,
+          "performeddtm": "2019-04-01T02:51:14"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mEq",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 735,
+          "orderdose": 10,
+          "performedminutesago": 683,
+          "scheduleddtm": "2019-04-01T03:51:14",
+          "taskcomment": "Given late/Reason: Patient Off Unit",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 41,
+          "performeddtm": "2019-04-01T04:43:58"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "IV PiggyBack",
+          "orderdose": 20,
+          "performedminutesago": 439,
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 83,
+          "performeddtm": "2019-04-01T08:47:04"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Potassium Chloride Oral Liq",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "PER NG",
+          "orderdose": 40,
+          "performedminutesago": 5905,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-28T13:41:32"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "PER NG",
+          "orderdose": 40,
+          "performedminutesago": 5155,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T02:11:57"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mEq",
+          "route": "PER NG",
+          "scheduledminutesago": 4806,
+          "orderdose": 40,
+          "performedminutesago": 4751,
+          "scheduleddtm": "2019-03-29T08:00:00",
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T08:55:34"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "PER NG",
+          "scheduledminutesago": 4746,
+          "orderdose": 40,
+          "performedminutesago": 4746,
+          "scheduleddtm": "2019-03-29T09:00:00",
+          "taskcomment": "Manually Charted Reason: Bar Code will not scan",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-29T09:00:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "PER NG",
+          "orderdose": 40,
+          "performedminutesago": 1424,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 89,
+          "performeddtm": "2019-03-31T16:22:35"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mEq",
+          "route": "PER NG",
+          "orderdose": 60,
+          "performedminutesago": 440,
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 134,
+          "performeddtm": "2019-04-01T08:46:26"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Potassium Phosphate Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mmol",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 6617,
+          "orderdose": 15,
+          "performedminutesago": 6370,
+          "scheduleddtm": "2019-03-28T01:49:46.847",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T05:56:02"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mmol",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4512,
+          "orderdose": 15,
+          "performedminutesago": 4458,
+          "scheduleddtm": "2019-03-29T12:54:15.883",
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T13:48:16"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mmol",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4452,
+          "orderdose": 15,
+          "performedminutesago": 4208,
+          "scheduleddtm": "2019-03-29T13:54:15.883",
+          "taskcomment": "Manually Charted Reason: Bar Code will not scan",
+          "prn": 0,
+          "frequency": "q1h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T17:58:00"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mmol",
+          "route": "IV PiggyBack",
+          "orderdose": 15,
+          "performedminutesago": 1702,
+          "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T11:44:14"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Prothrombin Cmplx Conc-4 Factor (Kcentra)",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Late",
+        "uom": "UNIT",
+        "route": "IV PiggyBack",
+        "scheduledminutesago": 8852,
+        "orderdose": 1000,
+        "performedminutesago": 8620,
+        "scheduleddtm": "2019-03-26T12:34:30.807",
+        "taskcomment": "Given late/Reason: Treatment in Progress",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T16:26:55"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Sodium Chloride 23.4% Inj",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "ml",
+          "route": "IV PUSH",
+          "scheduledminutesago": 8528,
+          "orderdose": 30,
+          "performedminutesago": 8517,
+          "scheduleddtm": "2019-03-26T17:58:14.023",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T18:09:07"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "ml",
+          "route": "IV PUSH",
+          "orderdose": 30,
+          "performedminutesago": 5226,
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T01:00:00"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Sodium Phosphate Inj",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Late",
+        "uom": "mmol",
+        "route": "IV PiggyBack",
+        "scheduledminutesago": 7626,
+        "orderdose": 15,
+        "performedminutesago": 7562,
+        "scheduleddtm": "2019-03-27T09:00:52.850",
+        "taskcomment": "Given late/Reason: Med Pending from Pharmacy",
+        "prn": 0,
+        "frequency": "Once",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-27T10:04:57"
+      }}
+    },
+    {
+      "orderstatus": "completed",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Sodium Potassium Phosphate Oral Susp",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "packet",
+          "route": "PER NG",
+          "scheduledminutesago": 6186,
+          "orderdose": 2,
+          "performedminutesago": 6177,
+          "scheduleddtm": "2019-03-28T09:00:00",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T09:09:56"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "packet",
+          "route": "PER NG",
+          "scheduledminutesago": 5706,
+          "orderdose": 2,
+          "performedminutesago": 5670,
+          "scheduleddtm": "2019-03-28T17:00:00",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-28T17:36:43"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "packet",
+          "route": "PER NG",
+          "scheduledminutesago": 5226,
+          "orderdose": 2,
+          "performedminutesago": 5276,
+          "scheduleddtm": "2019-03-29T01:00:00",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T00:10:32"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "packet",
+          "route": "Oral",
+          "orderdose": 2,
+          "performedminutesago": 4475,
+          "taskcomment": "Given late/Reason: Clarifying Physician Order",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T13:31:14"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "packet",
+          "route": "PER NG",
+          "scheduledminutesago": 2203,
+          "orderdose": 2,
+          "performedminutesago": 2126,
+          "scheduleddtm": "2019-03-31T03:23:22.953",
+          "taskcomment": "Given late/Reason: Treatment in Progress",
+          "prn": 0,
+          "frequency": "Once",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T04:40:28"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Acetaminophen Tab",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "Oral",
+        "orderdose": 650,
+        "performedminutesago": 8406,
+        "prn": 1,
+        "frequency": "q4h",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T20:00:00"
+      }}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Aspirin EC Tab",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Late",
+        "uom": "mg",
+        "route": "Oral",
+        "scheduledminutesago": 9066,
+        "orderdose": 81,
+        "performedminutesago": 9051,
+        "scheduleddtm": "2019-03-26T09:00:00",
+        "prn": 0,
+        "frequency": "daily 9am",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-26T09:15:23"
+      }}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Atorvastatin Tab",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "Oral",
+        "orderdose": 40,
+        "performedminutesago": 9660,
+        "prn": 0,
+        "frequency": "Bedtime (Adults) 9pm",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-25T23:06:06"
+      }}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Digoxin Oral",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "microgram",
+          "route": "Oral",
+          "scheduledminutesago": 9066,
+          "orderdose": 125,
+          "performedminutesago": 9051,
+          "scheduleddtm": "2019-03-26T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T09:15:40"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "microgram",
+          "route": "Oral",
+          "scheduledminutesago": 7626,
+          "orderdose": 125,
+          "performedminutesago": 7652,
+          "scheduleddtm": "2019-03-27T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T08:34:17"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Famotidine Inj.",
+      "cfinal": "other",
+      "tasks": {"task": {
+        "taskstatus": "Performed",
+        "uom": "mg",
+        "route": "IV PUSH",
+        "scheduledminutesago": 6906,
+        "orderdose": 20,
+        "performedminutesago": 6965,
+        "scheduleddtm": "2019-03-27T21:00:00",
+        "prn": 0,
+        "frequency": "q12hr",
+        "dosepctile": 50,
+        "performeddtm": "2019-03-27T20:01:02"
+      }}
+    },
+    {
+      "c3": "hormones/hormone modifiers",
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Hydrocortisone Succinate Inj",
+      "cfinal": "other",
+      "c1": "glucocorticoids",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 7446,
+          "orderdose": 50,
+          "performedminutesago": 7474,
+          "scheduleddtm": "2019-03-27T12:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-27T11:32:24"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 7086,
+          "orderdose": 50,
+          "performedminutesago": 7066,
+          "scheduleddtm": "2019-03-27T18:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-27T18:20:52"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 6726,
+          "orderdose": 50,
+          "performedminutesago": 6770,
+          "scheduleddtm": "2019-03-28T00:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-27T23:16:09"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 6366,
+          "orderdose": 50,
+          "performedminutesago": 6370,
+          "scheduleddtm": "2019-03-28T06:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-28T05:56:10"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 6006,
+          "orderdose": 50,
+          "performedminutesago": 6058,
+          "scheduleddtm": "2019-03-28T12:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-28T11:08:04"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 4806,
+          "orderdose": 50,
+          "performedminutesago": 4751,
+          "scheduleddtm": "2019-03-29T08:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-29T08:55:49"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 4446,
+          "orderdose": 50,
+          "performedminutesago": 4475,
+          "scheduleddtm": "2019-03-29T14:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-29T13:31:05"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 4086,
+          "orderdose": 50,
+          "performedminutesago": 3929,
+          "scheduleddtm": "2019-03-29T20:00:00",
+          "taskcomment": "Given late/Reason: Patient Off Unit",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-29T22:37:45"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 3606,
+          "orderdose": 50,
+          "performedminutesago": 3574,
+          "scheduleddtm": "2019-03-30T04:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-30T04:32:57"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 3246,
+          "orderdose": 50,
+          "performedminutesago": 3229,
+          "scheduleddtm": "2019-03-30T10:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-30T10:17:18"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 2886,
+          "orderdose": 50,
+          "performedminutesago": 2752,
+          "scheduleddtm": "2019-03-30T16:00:00",
+          "taskcomment": "Given late/Reason: Requested by MD/NP/PA",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-30T18:14:23"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 2526,
+          "orderdose": 50,
+          "performedminutesago": 2557,
+          "scheduleddtm": "2019-03-30T22:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-30T21:29:56"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 2166,
+          "orderdose": 50,
+          "performedminutesago": 2123,
+          "scheduleddtm": "2019-03-31T04:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-31T04:43:12"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 1806,
+          "orderdose": 50,
+          "performedminutesago": 1845,
+          "scheduleddtm": "2019-03-31T10:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-31T09:21:45"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 1446,
+          "orderdose": 50,
+          "performedminutesago": 1426,
+          "scheduleddtm": "2019-03-31T16:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-31T16:20:54"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 1086,
+          "orderdose": 50,
+          "performedminutesago": 1099,
+          "scheduleddtm": "2019-03-31T22:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-03-31T21:47:42"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 726,
+          "orderdose": 50,
+          "performedminutesago": 678,
+          "scheduleddtm": "2019-04-01T04:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-04-01T04:48:34"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PUSH",
+          "scheduledminutesago": 366,
+          "orderdose": 50,
+          "performedminutesago": 405,
+          "scheduleddtm": "2019-04-01T10:00:00",
+          "prn": 0,
+          "frequency": "q6hr",
+          "dosepctile": 44,
+          "performeddtm": "2019-04-01T09:21:48"
+        }
+      ]},
+      "c2": "adrenal cortical steroids"
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Metoprolol Tartrate Tab",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 9681,
+          "orderdose": 25,
+          "performedminutesago": 9663,
+          "scheduleddtm": "2019-03-25T22:45:00",
+          "prn": 0,
+          "frequency": "bid q12h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-25T23:03:52"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 9066,
+          "orderdose": 25,
+          "performedminutesago": 9050,
+          "scheduleddtm": "2019-03-26T09:00:00",
+          "prn": 0,
+          "frequency": "bid q12h",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T09:16:28"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Pantoprazole Delayed Release Tab",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 9066,
+          "orderdose": 40,
+          "performedminutesago": 9052,
+          "scheduleddtm": "2019-03-26T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-26T09:14:57"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "Oral",
+          "scheduledminutesago": 7626,
+          "orderdose": 40,
+          "performedminutesago": 7652,
+          "scheduleddtm": "2019-03-27T09:00:00",
+          "prn": 0,
+          "frequency": "daily 9am",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-27T08:34:31"
+        }
+      ]}
+    },
+    {
+      "orderstatus": "discontinued",
+      "visitguid": 9001831998100270,
+      "rank": 100,
+      "drugname": "Piperacillin Tazobactam Inj Extended Infusion",
+      "cfinal": "other",
+      "tasks": {"task": [
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 5164,
+          "orderdose": 4500,
+          "performedminutesago": 5154,
+          "scheduleddtm": "2019-03-29T02:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T02:12:26"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4684,
+          "orderdose": 4500,
+          "performedminutesago": 4739,
+          "scheduleddtm": "2019-03-29T10:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T09:07:17"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 4204,
+          "orderdose": 4500,
+          "performedminutesago": 4207,
+          "scheduleddtm": "2019-03-29T18:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-29T17:59:24"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 3724,
+          "orderdose": 4500,
+          "performedminutesago": 3708,
+          "scheduleddtm": "2019-03-30T02:02:46.243",
+          "taskcomment": "System Documented: 02:18",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T02:18:34"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 3244,
+          "orderdose": 4500,
+          "performedminutesago": 3229,
+          "scheduleddtm": "2019-03-30T10:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T10:17:04"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 2764,
+          "orderdose": 4500,
+          "performedminutesago": 2751,
+          "scheduleddtm": "2019-03-30T18:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-30T18:15:01"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 2284,
+          "orderdose": 4500,
+          "performedminutesago": 2255,
+          "scheduleddtm": "2019-03-31T02:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T02:31:12"
+        },
+        {
+          "taskstatus": "Performed",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 1804,
+          "orderdose": 4500,
+          "performedminutesago": 1842,
+          "scheduleddtm": "2019-03-31T10:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T09:24:15"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 1324,
+          "orderdose": 4500,
+          "performedminutesago": 1321,
+          "scheduleddtm": "2019-03-31T18:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-03-31T18:05:10"
+        },
+        {
+          "taskstatus": "Late",
+          "uom": "mg",
+          "route": "IV PiggyBack",
+          "scheduledminutesago": 844,
+          "orderdose": 4500,
+          "performedminutesago": 800,
+          "scheduleddtm": "2019-04-01T02:02:46.243",
+          "prn": 0,
+          "frequency": "q8hr",
+          "dosepctile": 50,
+          "performeddtm": "2019-04-01T02:46:20"
+        }
+      ]}
+    }
+  ]}
+}

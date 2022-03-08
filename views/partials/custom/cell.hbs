@@ -1,0 +1,9 @@
+<div class="pill floating info header" id="\{{this}}" style="\{{partition ../visualize.headers.length 96}}">
+    \{{capitalize this}}
+</div>
+\{{#each ../visualize.inner}}
+<div class="pill floating info \{{this}}" id="\{{../this}}" style="\{{partition ../../visualize.inner.length
+        64}}">
+    \{{bp_proxies ../this}}
+</div>
+\{{/each}}

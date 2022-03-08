@@ -144,11 +144,11 @@ var settings = {
               .y(d => d['value'])
               .y1(d => d['y1'])
               .y0(d => d['y0'])
-              .xDomain([d3.timeHour.offset(new Date(),-24), new Date()])
-              // .xDomain([
-              //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date(d['date']))), -24),
-              //   d3.max(data, c => d3.max(c['values'], d => new Date(d['date'])))
-              // ])
+              // .xDomain([d3.timeHour.offset(new Date(),-24), new Date()])
+              .xDomain([
+                d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date(d['date']))), -24),
+                d3.max(data, c => d3.max(c['values'], d => new Date(d['date'])))
+              ])
               .yDomain([
                 d3.min(data, c => d3.min(c['values'], d => d['value'])),
                 d3.max(data, c => d3.max(c['values'], d => d['value']))
@@ -423,11 +423,11 @@ var settings = {
                       .y1(d => d['y1'])
                       .y0(d => d['y0'])
                       .config(that)
-                      // .xDomain([
-                      //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())), -22),
-                      //   d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())),)
-                      // ])
-                      .xDomain(domain.x)
+                      .xDomain([
+                        d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())), -22),
+                        d3.timeHour.offset(d3.max(data, c => d3.max(c['values'], d => new Date())),)
+                      ])
+                      // .xDomain(domain.x)
                       .yDomain([
                         d3.min(data, c => d3.min(c['values'], d => d['value'])),
                         d3.max(data, c => d3.max(c['values'], d => d['value']))
@@ -667,12 +667,12 @@ var settings = {
                 return stack;
               })
               .colorBand(['#b3e5fc','#7986cb'])
-              .xDomain([d3.timeHour.offset(new Date(),-24), new Date()]);
+              // .xDomain([d3.timeHour.offset(new Date(),-24), new Date()]);
           // .yDomain()
-          // .xDomain([
-          //       d3.timeHour.offset(d3.max(data, function(d){ return new Date(d['startdtm']); }),-24),
-          //       d3.max(data, function(d){ return new Date(d['startdtm']); })
-          //     ]);
+              .xDomain([
+                    d3.timeHour.offset(d3.max(data, function(d){ return new Date(d['startdtm']); }),-24),
+                    d3.max(data, function(d){ return new Date(d['startdtm']); })
+                  ]);
           return chart;
         },
         zoom: function(){
